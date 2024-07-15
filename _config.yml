@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:            DSSG Project Name
+title:            Understanding Homelessness
 tagline:          ''
-description:      'A 2022 Data Science for Social Good summer fellowship project at the University of Washington' 
+description:      'Website for Data Science for Social Good 2024 "Understanding Homelessness" Project' 
 url:              "https://uwescience.github.io"
 baseurl:          "/DSSG2024_understanding_homelessness"
 
