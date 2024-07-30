@@ -42,13 +42,16 @@ Jess Robinson is a PhD student in Sociology at Columbia University and an incomi
 <details>
 <summary>Click to expand</summary>
 
-Rebecca is a Ph.D. candidate in Social Psychology at the University of Washington. Her work employs experimental methods to examine biases in responses to and perceptions of women’s sexual harassment. Prior to graduate school, she received her B.A. in Psychology from Lawrence University in 2017 and then worked as a Research Assistant. In her role at the Centre for Evidence and Implementation, she primarily supported evidence synthesis projects on interventions aimed to improve outcomes social and educational outcomes for vulnerable groups of children (e.g., in out-of-home care, pre-school-aged, etc.). At the Centre for Workplace Leadership, she conducted quantitative and qualitative analyses based on survey data from partner organizations who were interested in understanding and improving their workplace culture. Based on these analyses, she also designed and co-delivered training materials for these organizations on unconscious bias, incivility, and sexual and racial harassment.
+Rebecca is a PhD candidate in Social Psychology at the University of Washington. Her work employs experimental methods to examine biases in responses to and perceptions of women’s sexual harassment. Prior to graduate school, she received her B.A. in Psychology from Lawrence University and then worked as a Research Assistant. In her role at the Centre for Evidence and Implementation, she primarily supported evidence synthesis projects on interventions aimed to improve outcomes social and educational outcomes for vulnerable groups of children (e.g., in out-of-home care, pre-school-aged, etc.). At the Centre for Workplace Leadership, she conducted quantitative and qualitative analyses based on survey data, translating these findings into training materials and strategic plans for partner organizations interested in understanding and improving their workplace cultures. 
 
 </details>
 
-Roles or Contributions (optional, only if it makes sense to your team)
 
-Where readers can find more details about the project, e.g. code, data, reports, etc.
+## Accessing the Data
 
-Acknowledgements
+The survey data used for this project require proof of Human Subjects training and two signed Data Agreement forms. To inquire about this verification process and data access, contact Zack Almquist (<zalmquist@uw.edu>) or June Yang (<jyang32@uw.edu>).
+
+## Acknowledgements
+
+Thank you to the many stakeholders who generously gave their time to help us better understand and contextualize these survey data. Thanks also to the UW eScience Institute's DSSG Program for supporting this work.
 
