@@ -5,7 +5,9 @@ title: About
 
 
 ## Our Team 
-
+  
+---
+<img src="https://escience.washington.edu/wp-content/uploads/2024/06/wm_asrm_photos_23_85-1.jpg" width="120" height="120"> 
 
 ### **Felix Junior Appiah Kubi, Fellow**
 
@@ -16,7 +18,10 @@ Felix is a dedicated scholar and data scientist with a passion for leveraging st
 
 </details>
 
-![Alt text](https://escience.washington.edu/wp-content/uploads/2024/06/Brooke-Kaye.jpg "Brooke Kaye") 
+---
+
+<img src="https://escience.washington.edu/wp-content/uploads/2024/06/Brooke-Kaye.jpg" width="120" height="120">
+
 ### **Brooke Kaye, Fellow**
 
 <details>
@@ -25,6 +30,10 @@ Felix is a dedicated scholar and data scientist with a passion for leveraging st
 Brooke grew up in North Dakota and received a bachelor’s degree in natural resources and applied ecology from Cornell University. Brooke’s early career focus was on climate and biogeochemical cycling in arctic ecosystems and the Olympic Peninsula. Brooke later served as a Peace Corps volunteer in Panama with a focus on environmental education and sustainable agriculture. For the past decade, Brooke has been deeply involved in local agriculture and food advocacy, working as an organic farmer, nutrition educator, and local food advocate. While running her own organic vegetable farm, Brooke partnered with the Oregon Food Bank to get more produce into the emergency food system. Brooke is currently pursuing a Master of Science in Data Analytics through Oregon State University.
 
 </details>
+
+---
+
+<img src="https://escience.washington.edu/wp-content/uploads/2024/06/headshot_1.jpg" width="120" height="120">
 
 ### **Jess Robinson, Fellow**
 
@@ -35,6 +44,10 @@ Jess Robinson is a PhD student in Sociology at Columbia University and an incomi
 
 </details>
 
+---
+
+<img src="https://escience.washington.edu/wp-content/uploads/2024/06/RS-headshot-cropped.jpg" width="120" height="120">
+
 ### **Rebecca Schachtman, Fellow**
 
 <details>
@@ -44,6 +57,7 @@ Rebecca is a PhD candidate in Social Psychology at the University of Washington.
 
 </details>
 
+---
 
 ## Accessing the Data
 
