@@ -4,11 +4,8 @@ title: About
 ---
 
 
-Team Photo
-
-Individual Bios
-
 ## Our Team 
+
 
 ### **Felix Junior Appiah Kubi, Fellow**
 
@@ -19,6 +16,7 @@ Felix is a dedicated scholar and data scientist with a passion for leveraging st
 
 </details>
 
+![Alt text](https://escience.washington.edu/wp-content/uploads/2024/06/Brooke-Kaye.jpg "Brooke Kaye") 
 ### **Brooke Kaye, Fellow**
 
 <details>
