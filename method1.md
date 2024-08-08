@@ -53,7 +53,7 @@ The workflow was divided into several steps:
 
 ### What approaches did you try that didn’t work? What analyses did you end up sticking with?
 
-- **Successful Approaches**: The final approach involved using standardized functions to clean and harmonize data, resulting in reliable datasets for analysis. We then applied the RDS-II estimators and bootstrap methods for robust statistical analysis.
+- **Successful Approaches**: The final approach involved using standardized functions to clean and harmonize data, resulting in reliable datasets for analysis. We then apply the RDS-II estimators and bootstrap methods for robust statistical analysis.
 
 ## Limitations
 
