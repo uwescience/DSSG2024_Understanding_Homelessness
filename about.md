@@ -61,7 +61,7 @@ Rebecca is a PhD candidate in Social Psychology at the University of Washington.
 
 ## Accessing the Data
 
-The survey data used for this project require proof of Human Subjects training and two signed Data Agreement forms. To inquire about this verification process and data access, contact Zack Almquist (<zalmquist@uw.edu>) or June Yang (<jyang32@uw.edu>).
+The survey data used for this project require proof of Human Subjects training and two signed Data Agreement forms. To inquire about this verification process and data access, contact Zack Almquist (<zalmquist@uw.edu>).
 
 ## Acknowledgements
 
