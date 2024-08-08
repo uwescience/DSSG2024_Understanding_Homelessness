@@ -66,3 +66,36 @@ The workflow was divided into several steps:
 - **Improvements**:
   - **Ongoing Harmonization**: Continuously review and update column standardization procedures to address any emerging inconsistencies.
   - **Tool Flexibility**: Consider incorporating additional tools or methods to improve interoperability and address any potential limitations of the primary tools used.
+ 
+## Survey Design and Sampling
+
+### Survey Design
+
+The survey was designed to capture comprehensive data on the unsheltered population using the following methodology:
+
+- **Hub Locations:** Established up to twelve hub locations, including public libraries and veterans shelters, to facilitate survey participation.
+- **Seed Participants:** Recruited around twenty initial seed participants who distributed coupons to their peers.
+- **Coupon Distribution:** Participants were given coupons to refer others, with incentives including cash cards and Metro bus tickets. Referring participants received credit for each completed referral.
+- **Data Collection:** Conducted at hub locations with the assistance of trained students and volunteers, using tablets and the UW Qualtrics data entry form.
+
+### Sampling Methodology
+
+The sampling methodology employed includes:
+
+- **Respondent-Driven Sampling (RDS):** Utilized for individuals without addresses, with a focus on network-based sampling.
+- **Household Survey:** Randomized sampling approach for individuals with addresses.
+
+**Survey Phases:**
+
+1. **Initial Screener:** Approximately 5 minutes, interviewer-administered, with a $20 gift card and two Metro bus tickets.
+2. **Individual Interview:** About 30 minutes, self-administered via tablet, with an additional $10 gift card as incentive.
+
+### Eligibility Criteria
+
+Participants were selected based on the following criteria:
+
+- **Age:** 18 years or older.
+- **Consent:** Capability of providing informed consent.
+- **Housing Status:** Identified as unsheltered, as per HUD definitions.
+
+Interviews were conducted in English and Spanish, with real-time translation available for other languages.
