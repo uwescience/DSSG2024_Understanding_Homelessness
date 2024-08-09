@@ -23,7 +23,5 @@ We would like to express our gratitude to the following individuals and organiza
 - **Chassidy Wen**: Recruitment Co-Lead
 - **Devin Collins**: Recruitment Co-Lead
 
-For the full list of acknowledgments, [download the full list here](https://docs.google.com/document/d/1S9i5ndeA2YcBaWJURdBkFeCPgnno8192cqSRnA-Pkwc/edit#heading=h.cxf5p43nrpzb).
-
-Thank you to everyone who has supported us in this endeavor.
+For the full list of acknowledgments, [download the full list here](https://docs.google.com/document/d/1S9i5ndeA2YcBaWJURdBkFeCPgnno8192cqSRnA-Pkwc/edit#heading=h.cxf5p43nrpzb). Thank you to everyone who has supported us in this endeavor.
 
