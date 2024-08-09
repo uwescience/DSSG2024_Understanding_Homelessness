@@ -1,7 +1,5 @@
 ### ACKNOWLEDGMENTS
 
-# Acknowledgments
-
 We would like to express our gratitude to the following individuals and organizations for their invaluable contributions to this project:
 
 ## 2024 UW DSSG Fellows
