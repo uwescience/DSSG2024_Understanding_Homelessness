@@ -122,14 +122,23 @@ Ensuring informed consent and maintaining participant confidentiality were param
 
 
 
-## Data Weighting and Adjustment
+## Data Analysis
+
+### RDS (version 0.9-9)
+
+The RDS package provides functionality for carrying out estimation with data collected using Respondent-Driven Sampling (RDS). It includes the Heckathorn's RDS-I and RDS-II estimators as well as Gile's Sequential Sampling estimator. This package is part of the "RDS Analyst" suite of packages designed for the analysis of respondent-driven sampling data.
+
+For additional details, you can visit the [RDS Package Documentation](https://www.rdocumentation.org/packages/RDS/versions/0.9-9).
+
+### Data Weighting and Adjustment
 
 To ensure that the results were representative of the target population, data weighting and adjustment were applied.
 
 1. **Weight Calculation:** Weights were calculated based on the number of recruits each participant was responsible for and the network size of the participants. This adjusted for any biases introduced by the non-random sampling process.
 2. **Adjustments for Demographic Representation:** Adjustments were made to account for discrepancies between the sample and the target population's demographic distribution.
 
-## Statistical Analysis
+
+### Statistical Analysis
 
 Statistical analysis was performed to derive insights and draw conclusions from the data.
 
