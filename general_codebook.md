@@ -1,3 +1,8 @@
+---
+layout: page
+title: General Codebook
+---
+
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
