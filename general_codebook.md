@@ -190,7 +190,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/gender%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/gender graph-1.png)
 
 ## *Race*
 
@@ -377,7 +377,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/race%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/race graph-1.png)
 
 ### *Race - Multiracial Preference *
 
@@ -544,7 +544,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/race%20mr%20black%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/race mr black graph-1.png)
 
 ### *Race - Multiracial (Indigenous)*
 
@@ -711,7 +711,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/race%20mr%20indig%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/race mr indig graph-1.png)
 
 ### *Race - Multiracial (Native Hawaiian or Pacific Islander)*
 
@@ -879,7 +879,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/race%20mr%20pi%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/race mr pi graph-1.png)
 
 ## *Ethnicity*
 
@@ -978,7 +978,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ethnicity%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ethnicity graph-1.png)
 
 ## *Age*
 
@@ -1132,7 +1132,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/cat%20age%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/cat age graph-1.png)
 
 ### *Age (Continuous)*
 
@@ -2039,7 +2039,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/birthstate%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/birthstate graph-1.png)
 
 ### *Birth Country*
 
@@ -2700,7 +2700,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/birthcountry%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/birthcountry graph-1.png)
 
 ## *Years Lived in King County *
 
@@ -2876,7 +2876,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/health%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/health graph-1.png)
 
 ## *Disability*
 
@@ -2992,7 +2992,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/disability%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/disability graph-1.png)
 
 ## *Mental Illness*
 
@@ -3108,7 +3108,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/mental%20illness%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/mental illness graph-1.png)
 
 ## *Substance Use*
 
@@ -3224,7 +3224,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/substance%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/substance graph-1.png)
 
 # Eviction
 
@@ -3310,7 +3310,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/eviction%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/eviction graph-1.png)
 
 ## *Age at Eviction*
 
@@ -3451,7 +3451,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/formal%20eviction%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/formal eviction graph-1.png)
 
 # Sleep Status
 
@@ -3656,7 +3656,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_sleep%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_sleep graph-1.png)
 
 ### *Re-coded: Where did you sleep last night?*
 
@@ -4061,7 +4061,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_sleep_imp%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_sleep_imp graph-1.png)
 
 ## *Sheltered vs. Unsheltered*
 
@@ -4143,7 +4143,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_pre_sheltered_imp%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_pre_sheltered_imp graph-1.png)
 
 ## *Would Accept Shelter*
 
@@ -4243,7 +4243,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_accept_shelt%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_accept_shelt graph-1.png)
 
 ## \*If Accepting, Shelter Preference
 
@@ -4360,7 +4360,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/shelter_pref%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/shelter_pref graph-1.png)
 
 # Experience of Homelessness
 
@@ -4553,7 +4553,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/recode_ego_homeless_duration%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/recode_ego_homeless_duration graph-1.png)
 
 ## *Days Homeless in Past Three Years*
 
@@ -4763,7 +4763,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_homeless_count%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_homeless_count graph-1.png)
 
 ## *Experiencing Chronic Homelessness*
 
@@ -4844,7 +4844,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_homeless_chron%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_homeless_chron graph-1.png)
 
 # Connections
 
@@ -5163,7 +5163,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_va%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_va graph-1.png)
 
 ## *Disability Benefits*
 
@@ -5246,7 +5246,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_disability%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_disability graph-1.png)
 
 ## *Housing Benefits*
 
@@ -5330,7 +5330,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_housing%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_housing graph-1.png)
 
 ## *SSI Benefits*
 
@@ -5415,7 +5415,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_ssi%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_ssi graph-1.png)
 
 ## *Medicaid Benefits*
 
@@ -5499,7 +5499,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_medicaid%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_medicaid graph-1.png)
 
 ## *Medicare Benefits*
 
@@ -5582,7 +5582,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_medicare%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_medicare graph-1.png)
 
 ## *Indian Health Service Benefits*
 
@@ -5666,7 +5666,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_ihs%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_ihs graph-1.png)
 
 ## *Other Benefits*
 
@@ -5748,4 +5748,4 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/ego_ben_other%20graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/ego_ben_other graph-1.png)
