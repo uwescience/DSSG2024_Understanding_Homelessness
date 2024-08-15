@@ -3,6 +3,14 @@ layout: page
 title: General Codebook
 ---
 
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+
 # Overview
 
 This codebook summarizes the findings and data from the University of
