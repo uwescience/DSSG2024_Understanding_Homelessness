@@ -15,7 +15,7 @@
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/motivation' | prepend: site.baseurl }}">Motivation</a>
       
-      <!-- An example of a section with drop-down menu -->
+ <!-- An example of a section with drop-down menu -->
       <button class="dropdown-btn">Methods
           <i class="fa fa-caret-down"></i>
       </button>
@@ -23,15 +23,14 @@
           <a href="{{ '/method1' | prepend: site.baseurl }}">Method 1</a><br/>
           <a href="{{ '/method2' | prepend: site.baseurl }}">Method 2</a>
       </div>
-      <!-- An example of a section with drop-down menu -->
-      <button class="dropdown-btn">Codebook
+      
+        <button class="dropdown-btn">Results
           <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-container">
-          <a href="{{ '/technical_codebooks' | prepend: site.baseurl }}">Technical Codebook</a><br/>
-          <a href="{{ '/general_codebook' | prepend: site.baseurl }}">General Codebook</a>
+          <a href="{{ '/technical_codebooks' | prepend: site.baseurl }}">Technical Codebooks</a><br/>
+          <a href="{{ '/general_codebook' | prepend: site.baseurl }}">General Codebook</a><br/>
       </div>
-</div>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/acknowledgements' | prepend: site.baseurl }}">Acknowledgements</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/about' | prepend: site.baseurl }}">About</a>
 
