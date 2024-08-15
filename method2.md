@@ -116,6 +116,28 @@ Ensuring informed consent and maintaining participant confidentiality were param
   - Each site typically had 5-7 volunteers and one site manager per shift.
 
 
+# Data Processing and Analysis
+
+## Data Cleaning
+
+
+
+## Data Weighting and Adjustment
+
+To ensure that the results were representative of the target population, data weighting and adjustment were applied.
+
+1. **Weight Calculation:** Weights were calculated based on the number of recruits each participant was responsible for and the network size of the participants. This adjusted for any biases introduced by the non-random sampling process.
+2. **Adjustments for Demographic Representation:** Adjustments were made to account for discrepancies between the sample and the target population's demographic distribution.
+
+## Statistical Analysis
+
+Statistical analysis was performed to derive insights and draw conclusions from the data.
+
+1. **Descriptive Statistics:** Basic descriptive statistics, such as means, medians, and proportions, were calculated to summarize the data and provide an overview of the sample characteristics.
+2. **Inferential Statistics:** Advanced statistical techniques, including regression analysis and hypothesis testing, were used to make inferences about the larger population based on the sample data.
+3. **RDS Analysis:** Specialized RDS estimators, such as the RDS-II estimator, were employed to analyze the network data and adjust for the sampling design.
+
+
 # Conclusion
 
 This methods section outlines the critical components of the data collection, processing, and analysis methodologies employed in the 2023 UW King County Understanding Homelessness Project. The use of Respondent Driven Sampling (RDS) provides a robust framework for studying hard-to-reach populations, ensuring that the insights drawn from this research are both valid and reliable.
