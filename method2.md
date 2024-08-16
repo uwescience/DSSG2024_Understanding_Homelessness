@@ -11,8 +11,8 @@ Respondent Driven Sampling (RDS) is a method both for data collection and for st
 
 Theory supporting RDS requires:
 - Respondents be selected from a social network of existing members of the target population
-- That network degree (sometimes referred to, imprecisely, as their personal network, connectivity, or the number of connections or edges that ego (focal node) has to other nodes) is measured accurately
-- That the target population is well connected within their community.
+- Network degree (sometimes referred to, imprecisely, as their personal network, connectivity, or the number of connections or edges that ego (focal node) has to other nodes) is measured accurately
+- The target population is well connected within their community.
 
 ### RDS Estimator
 
@@ -70,7 +70,7 @@ Ensuring informed consent and maintaining participant confidentiality were param
 1. **Data Protection:** Personal identifiers were removed from the dataset to maintain confidentiality. Unique identifiers were used to track responses while ensuring that individual identities were protected.
 2. **Secure Storage:** All data were stored in encrypted files and secured servers to prevent unauthorized access.
 
-## Survey Administration
+### Survey Administration
 
 - **Survey Administration:**
   - Volunteers administered the survey using Qualtrics.
@@ -86,7 +86,7 @@ Ensuring informed consent and maintaining participant confidentiality were param
   - Two bus tickets for participants in hard-to-access locations.
 
 
-## Survey Duration and Locations
+### Survey Duration and Locations
 
 Data collection began in late April and concluded in early June, lasting just over a month. Volunteers and site managers were active at eleven distinct site locations.
 
@@ -113,7 +113,7 @@ The specific functions used in our analysis include:
 
 For additional details, you can visit the [RDS Package Documentation](https://www.rdocumentation.org/packages/RDS/versions/0.9-9).
 
-##### Data Weighting and Adjustment
+#### Data Weighting and Adjustment
 
 To ensure that the results were representative of the target population, data weighting and adjustment were applied.
 
