@@ -66,7 +66,7 @@ Ensuring informed consent and maintaining participant confidentiality were param
 
 #### Confidentiality
 
-1. **Data Protection:** Personal identifiers were removed from the dataset to maintain confidentiality. Unique identifiers were used to track responses while ensuring that individual identities were protected.
+1. **Data Protection:** Personal identifiers were removed from the dataset to maintain confidentiality. Unique identifiers were used to track responses while ensuring that individual identities were protected. 
 2. **Secure Storage:** All data were stored in encrypted files and secured servers to prevent unauthorized access.
 
 ### Survey Administration
@@ -100,9 +100,7 @@ We prepared the data by creating functions to clean it and impute additional col
 
 #### RDS (version 0.9-9)
 
-For the analysis, we utilized the RDS package (version 0.9-9), which provides various tools for implementing Respondent-Driven Sampling (RDS).
-
-The RDS package provides functionality for carrying out estimation with data collected using Respondent-Driven Sampling (RDS). It includes the Heckathorn's RDS-I and RDS-II estimators as well as Gile's Sequential Sampling estimator. This package is part of the "RDS Analyst" suite of packages designed for the analysis of respondent-driven sampling data.
+For the analysis, we utilized the RDS package (version 0.9-9), which provides various tools for implementing Respondent-Driven Sampling (RDS). The RDS package provides functionality for carrying out estimation with data collected using Respondent-Driven Sampling (RDS). It includes the Heckathorn's RDS-I and RDS-II estimators as well as Gile's Sequential Sampling estimator. This package is part of the "RDS Analyst" suite of packages designed for the analysis of respondent-driven sampling data.
 
 The specific functions used in our analysis include:
 
@@ -124,7 +122,7 @@ To ensure that the results were representative of the target population, data we
 
 Statistical analysis was performed to derive insights and draw conclusions from the data.
 
-1. **Descriptive Statistics:** Basic descriptive statistics, such as means, medians, and proportions, were calculated to summarize the data and provide an overview of the sample characteristics.
+1. **Descriptive Statistics:** Basic descriptive statistics, such as means, medians, proportions, and totals were calculated to summarize the data and provide an overview of the sample characteristics.
 2. **Inferential Statistics:** Advanced statistical techniques, including regression analysis and hypothesis testing, were used to make inferences about the larger population based on the sample data.
 3. **RDS Analysis:** RDS II estimators was employed to analyze the network data and adjust for the sampling design.
 
