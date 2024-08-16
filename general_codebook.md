@@ -2701,7 +2701,7 @@ Total
 
 ![](assets/general_codebook_files/figure-markdown_strict/birthcountry_graph-1.png)
 
-## *Years Lived in King County *
+## *Years Lived in King County*
 
 *‘9. How long have you lived in King County? - Imputed’ This variable is
 not included for UWRDS-PSD survey observations.*
