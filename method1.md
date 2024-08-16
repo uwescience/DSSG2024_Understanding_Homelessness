@@ -3,8 +3,6 @@ layout: page
 title: Summary Methods - Data Collection and Analysis
 ---
 
-## Data
-
 ### What data sets are you using?
 
 We are using the 2023 RDS (Respondent-Driven Sampling) and PSD (Puget Sound Data) datasets.
