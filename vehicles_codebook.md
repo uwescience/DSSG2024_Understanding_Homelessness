@@ -1,13 +1,13 @@
 
-
 <style>
   .col2 {
-      column-gap: 50px;         /* Increase the gap between columns */
-    columns: 2 100px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 100px; /* chrome, safari */
-    -moz-columns: 2 100px;    /* firefox */
+      column-gap: 90px;         /* Increase the gap between columns */
+    columns: 2 90px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 90px; /* chrome, safari */
+    -moz-columns: 2 90px;    /* firefox */
   }
 </style>
+
 
 # Living in Vehicles vs. Not Living in Vehicles Codebook
 
