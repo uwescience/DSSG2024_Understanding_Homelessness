@@ -1,13 +1,15 @@
+
 <style>
   .col2 {
-    columns: 2 120px;         /* Decrease the width to prevent overlap */
-    -webkit-columns: 2 120px; /* chrome, safari */
-    -moz-columns: 2 120px;    /* firefox */
-    column-gap: 30px;         /* Increase the gap between columns */
-    -webkit-column-gap: 30px; /* chrome, safari */
-    -moz-column-gap: 30px;    /* firefox */
+      column-gap: 20px;         /* Increase the gap between columns */
+    columns: 2 90x;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 90px; /* chrome, safari */
+    -moz-columns: 2 90px;    /* firefox */
   }
 </style>
+
+
+# Living in Vehicles vs. Not Living in Vehicles Codebook
 
 # Overview
 
