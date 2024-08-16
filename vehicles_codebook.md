@@ -73,7 +73,7 @@ Living in Vehicles
 13%
 </td>
 <td style="text-align:left;">
-\[10%, 17%\]
+[10%, 17%]
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ Not Living in Vehicles
 87%
 </td>
 <td style="text-align:left;">
-\[83%, 90%\]
+[83%, 90%]
 </td>
 </tr>
 <tr>
@@ -123,8 +123,8 @@ who are Not Living in Vehicles is 87%.
 ## *Gender*
 
 *Imputed based on ‘B4. How would you describe your gender?’
-\[UWRDS-PSD\] and ‘25. Which of the following best describes your
-gender?’ \[UWRDS\]*
+[UWRDS-PSD] and ‘25. Which of the following best describes your
+gender?’ [UWRDS]*
 
 <div class="col2">
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -166,7 +166,7 @@ genderfluid, agender, culturally specific gender)
 1.62%
 </td>
 <td style="text-align:left;">
-\[0.91%, 2.32%\]
+[0.91%, 2.32%]
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ Female
 39.21%
 </td>
 <td style="text-align:left;">
-\[24.10%, 54.32%\]
+[24.10%, 54.32%]
 </td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ Male
 59.18%
 </td>
 <td style="text-align:left;">
-\[43.97%, 74.38%\]
+[43.97%, 74.38%]
 </td>
 </tr>
 <tr>
@@ -312,7 +312,7 @@ Total
             1.22%
             </td>
             <td style="text-align:left;">
-            \[0.29%, 2.14%\]
+            [0.29%, 2.14%]
             </td>
             </tr>
             <tr>
@@ -329,7 +329,7 @@ Total
             0.15%
             </td>
             <td style="text-align:left;">
-            \[-0.08%, 0.38%\]
+            [-0.08%, 0.38%]
             </td>
             </tr>
             <tr>
@@ -346,7 +346,7 @@ Total
             24.55%
             </td>
             <td style="text-align:left;">
-            \[18.31%, 30.80%\]
+            [18.31%, 30.80%]
             </td>
             </tr>
             <tr>
@@ -363,7 +363,7 @@ Total
             73.21%
             </td>
             <td style="text-align:left;">
-            \[66.97%, 79.44%\]
+            [66.97%, 79.44%]
             </td>
             </tr>
             <tr>
@@ -380,7 +380,7 @@ Total
             0.47%
             </td>
             <td style="text-align:left;">
-            \[0.34%, 0.60%\]
+            [0.34%, 0.60%]
             </td>
             </tr>
             <tr>
@@ -397,7 +397,7 @@ Total
             0.40%
             </td>
             <td style="text-align:left;">
-            \[-0.10%, 0.91%\]
+            [-0.10%, 0.91%]
             </td>
             </tr>
             <tr>
@@ -430,8 +430,8 @@ results were calculated based on the mean of 1000 bootstrapped tests. *
 ## *Race*
 
 *Imputed based on ‘B18. Which one or more of the following would you say
-best describes your race, heritage, or ancestry?’ \[UWRDS-PSD\] and ‘23.
-Which racial groups do you identify with?’ \[UWRDS\]*
+best describes your race, heritage, or ancestry?’ [UWRDS-PSD] and ‘23.
+Which racial groups do you identify with?’ [UWRDS]*
 
 ### *Race (Overall)*
 
@@ -474,7 +474,7 @@ American Indian, Alaskan Native or Indigenous
 6.80%
 </td>
 <td style="text-align:left;">
-\[-6.07%, 19.670%\]
+[-6.07%, 19.670%]
 </td>
 </tr>
 <tr>
@@ -491,7 +491,7 @@ Another race
 1.49%
 </td>
 <td style="text-align:left;">
-\[0.41%, 2.560%\]
+[0.41%, 2.560%]
 </td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@ Asian or Asian American
 3.90%
 </td>
 <td style="text-align:left;">
-\[-7.92%, 15.710%\]
+[-7.92%, 15.710%]
 </td>
 </tr>
 <tr>
@@ -525,7 +525,7 @@ Black, African American, or African
 8.98%
 </td>
 <td style="text-align:left;">
-\[2.70%, 15.270%\]
+[2.70%, 15.270%]
 </td>
 </tr>
 <tr>
@@ -542,7 +542,7 @@ Do not know
 1.01%
 </td>
 <td style="text-align:left;">
-\[0.44%, 1.580%\]
+[0.44%, 1.580%]
 </td>
 </tr>
 <tr>
@@ -559,7 +559,7 @@ Multiracial
 17.99%
 </td>
 <td style="text-align:left;">
-\[7.83%, 28.140%\]
+[7.83%, 28.140%]
 </td>
 </tr>
 <tr>
@@ -593,7 +593,7 @@ White
 59.83%
 </td>
 <td style="text-align:left;">
-\[43.23%, 76.440%\]
+[43.23%, 76.440%]
 </td>
 </tr>
 <tr>
@@ -653,7 +653,7 @@ Total
             9.23%
             </td>
             <td style="text-align:left;">
-            \[5.41%, 13.040%\]
+            [5.41%, 13.040%]
             </td>
             </tr>
             <tr>
@@ -670,7 +670,7 @@ Total
             2.28%
             </td>
             <td style="text-align:left;">
-            \[-0.03%, 4.590%\]
+            [-0.03%, 4.590%]
             </td>
             </tr>
             <tr>
@@ -687,7 +687,7 @@ Total
             2.57%
             </td>
             <td style="text-align:left;">
-            \[-0.11%, 5.240%\]
+            [-0.11%, 5.240%]
             </td>
             </tr>
             <tr>
@@ -704,7 +704,7 @@ Total
             20.07%
             </td>
             <td style="text-align:left;">
-            \[14.41%, 25.730%\]
+            [14.41%, 25.730%]
             </td>
             </tr>
             <tr>
@@ -721,7 +721,7 @@ Total
             2.32%
             </td>
             <td style="text-align:left;">
-            \[-0.60%, 5.250%\]
+            [-0.60%, 5.250%]
             </td>
             </tr>
             <tr>
@@ -738,7 +738,7 @@ Total
             12.74%
             </td>
             <td style="text-align:left;">
-            \[8.30%, 17.180%\]
+            [8.30%, 17.180%]
             </td>
             </tr>
             <tr>
@@ -755,7 +755,7 @@ Total
             2.62%
             </td>
             <td style="text-align:left;">
-            \[0.87%, 4.380%\]
+            [0.87%, 4.380%]
             </td>
             </tr>
             <tr>
@@ -772,7 +772,7 @@ Total
             48.17%
             </td>
             <td style="text-align:left;">
-            \[41.58%, 54.760%\]
+            [41.58%, 54.760%]
             </td>
             </tr>
             <tr>
@@ -848,7 +848,7 @@ American Indian, Alaskan Native or Indigenous
 13.13%
 </td>
 <td style="text-align:left;">
-\[-1.16%, 27.41%\]
+[-1.16%, 27.41%]
 </td>
 </tr>
 <tr>
@@ -865,7 +865,7 @@ Another race
 1.49%
 </td>
 <td style="text-align:left;">
-\[0.41%, 2.56%\]
+[0.41%, 2.56%]
 </td>
 </tr>
 <tr>
@@ -882,7 +882,7 @@ Asian or Asian American
 4.32%
 </td>
 <td style="text-align:left;">
-\[-7.44%, 16.09%\]
+[-7.44%, 16.09%]
 </td>
 </tr>
 <tr>
@@ -899,7 +899,7 @@ Black, African American, or African
 17.67%
 </td>
 <td style="text-align:left;">
-\[8.95%, 26.39%\]
+[8.95%, 26.39%]
 </td>
 </tr>
 <tr>
@@ -916,7 +916,7 @@ Do not know
 1.01%
 </td>
 <td style="text-align:left;">
-\[0.44%, 1.58%\]
+[0.44%, 1.58%]
 </td>
 </tr>
 <tr>
@@ -933,7 +933,7 @@ Native Hawaiian or Pacific Islander
 2.13%
 </td>
 <td style="text-align:left;">
-\[-2.44%, 6.69%\]
+[-2.44%, 6.69%]
 </td>
 </tr>
 <tr>
@@ -950,7 +950,7 @@ White
 60.26%
 </td>
 <td style="text-align:left;">
-\[43.65%, 76.87%\]
+[43.65%, 76.87%]
 </td>
 </tr>
 <tr>
@@ -1010,7 +1010,7 @@ Total
             15.57%
             </td>
             <td style="text-align:left;">
-            \[10.76%, 20.38%\]
+            [10.76%, 20.38%]
             </td>
             </tr>
             <tr>
@@ -1027,7 +1027,7 @@ Total
             2.28%
             </td>
             <td style="text-align:left;">
-            \[-0.03%, 4.59%\]
+            [-0.03%, 4.59%]
             </td>
             </tr>
             <tr>
@@ -1044,7 +1044,7 @@ Total
             3.10%
             </td>
             <td style="text-align:left;">
-            \[0.36%, 5.84%\]
+            [0.36%, 5.84%]
             </td>
             </tr>
             <tr>
@@ -1061,7 +1061,7 @@ Total
             24.53%
             </td>
             <td style="text-align:left;">
-            \[18.69%, 30.37%\]
+            [18.69%, 30.37%]
             </td>
             </tr>
             <tr>
@@ -1078,7 +1078,7 @@ Total
             2.32%
             </td>
             <td style="text-align:left;">
-            \[-0.60%, 5.25%\]
+            [-0.60%, 5.25%]
             </td>
             </tr>
             <tr>
@@ -1095,7 +1095,7 @@ Total
             3.77%
             </td>
             <td style="text-align:left;">
-            \[0.85%, 6.69%\]
+            [0.85%, 6.69%]
             </td>
             </tr>
             <tr>
@@ -1112,7 +1112,7 @@ Total
             48.43%
             </td>
             <td style="text-align:left;">
-            \[41.83%, 55.03%\]
+            [41.83%, 55.03%]
             </td>
             </tr>
             <tr>
@@ -1188,7 +1188,7 @@ American Indian, Alaskan Native or Indigenous
 18.45%
 </td>
 <td style="text-align:left;">
-\[4.37%, 32.53%\]
+[4.37%, 32.53%]
 </td>
 </tr>
 <tr>
@@ -1205,7 +1205,7 @@ Another race
 1.49%
 </td>
 <td style="text-align:left;">
-\[0.41%, 2.56%\]
+[0.41%, 2.56%]
 </td>
 </tr>
 <tr>
@@ -1222,7 +1222,7 @@ Asian or Asian American
 4.32%
 </td>
 <td style="text-align:left;">
-\[-7.44%, 16.09%\]
+[-7.44%, 16.09%]
 </td>
 </tr>
 <tr>
@@ -1239,7 +1239,7 @@ Black, African American, or African
 12.35%
 </td>
 <td style="text-align:left;">
-\[4.94%, 19.76%\]
+[4.94%, 19.76%]
 </td>
 </tr>
 <tr>
@@ -1256,7 +1256,7 @@ Do not know
 1.01%
 </td>
 <td style="text-align:left;">
-\[0.44%, 1.58%\]
+[0.44%, 1.58%]
 </td>
 </tr>
 <tr>
@@ -1273,7 +1273,7 @@ Native Hawaiian or Pacific Islander
 2.13%
 </td>
 <td style="text-align:left;">
-\[-2.44%, 6.69%\]
+[-2.44%, 6.69%]
 </td>
 </tr>
 <tr>
@@ -1290,7 +1290,7 @@ White
 60.26%
 </td>
 <td style="text-align:left;">
-\[43.65%, 76.87%\]
+[43.65%, 76.87%]
 </td>
 </tr>
 <tr>
@@ -1350,7 +1350,7 @@ Total
             19.10%
             </td>
             <td style="text-align:left;">
-            \[14.02%, 24.17%\]
+            [14.02%, 24.17%]
             </td>
             </tr>
             <tr>
@@ -1367,7 +1367,7 @@ Total
             2.28%
             </td>
             <td style="text-align:left;">
-            \[-0.03%, 4.59%\]
+            [-0.03%, 4.59%]
             </td>
             </tr>
             <tr>
@@ -1384,7 +1384,7 @@ Total
             3.10%
             </td>
             <td style="text-align:left;">
-            \[0.36%, 5.84%\]
+            [0.36%, 5.84%]
             </td>
             </tr>
             <tr>
@@ -1401,7 +1401,7 @@ Total
             21.00%
             </td>
             <td style="text-align:left;">
-            \[15.31%, 26.69%\]
+            [15.31%, 26.69%]
             </td>
             </tr>
             <tr>
@@ -1418,7 +1418,7 @@ Total
             2.32%
             </td>
             <td style="text-align:left;">
-            \[-0.60%, 5.25%\]
+            [-0.60%, 5.25%]
             </td>
             </tr>
             <tr>
@@ -1435,7 +1435,7 @@ Total
             3.77%
             </td>
             <td style="text-align:left;">
-            \[0.85%, 6.69%\]
+            [0.85%, 6.69%]
             </td>
             </tr>
             <tr>
@@ -1452,7 +1452,7 @@ Total
             48.43%
             </td>
             <td style="text-align:left;">
-            \[41.83%, 55.03%\]
+            [41.83%, 55.03%]
             </td>
             </tr>
             <tr>
@@ -1528,7 +1528,7 @@ American Indian, Alaskan Native or Indigenous
 10.86%
 </td>
 <td style="text-align:left;">
-\[-1.75%, 23.47%\]
+[-1.75%, 23.47%]
 </td>
 </tr>
 <tr>
@@ -1545,7 +1545,7 @@ Another race
 1.49%
 </td>
 <td style="text-align:left;">
-\[0.41%, 2.56%\]
+[0.41%, 2.56%]
 </td>
 </tr>
 <tr>
@@ -1562,7 +1562,7 @@ Asian or Asian American
 4.32%
 </td>
 <td style="text-align:left;">
-\[-7.44%, 16.09%\]
+[-7.44%, 16.09%]
 </td>
 </tr>
 <tr>
@@ -1579,7 +1579,7 @@ Black, African American, or African
 14.24%
 </td>
 <td style="text-align:left;">
-\[6.96%, 21.53%\]
+[6.96%, 21.53%]
 </td>
 </tr>
 <tr>
@@ -1596,7 +1596,7 @@ Do not know
 1.01%
 </td>
 <td style="text-align:left;">
-\[0.44%, 1.58%\]
+[0.44%, 1.58%]
 </td>
 </tr>
 <tr>
@@ -1613,7 +1613,7 @@ Native Hawaiian or Pacific Islander
 7.82%
 </td>
 <td style="text-align:left;">
-\[-1.61%, 17.24%\]
+[-1.61%, 17.24%]
 </td>
 </tr>
 <tr>
@@ -1630,7 +1630,7 @@ White
 60.26%
 </td>
 <td style="text-align:left;">
-\[43.65%, 76.87%\]
+[43.65%, 76.87%]
 </td>
 </tr>
 <tr>
@@ -1690,7 +1690,7 @@ Total
             14.72%
             </td>
             <td style="text-align:left;">
-            \[9.95%, 19.49%\]
+            [9.95%, 19.49%]
             </td>
             </tr>
             <tr>
@@ -1707,7 +1707,7 @@ Total
             2.28%
             </td>
             <td style="text-align:left;">
-            \[-0.03%, 4.59%\]
+            [-0.03%, 4.59%]
             </td>
             </tr>
             <tr>
@@ -1724,7 +1724,7 @@ Total
             3.10%
             </td>
             <td style="text-align:left;">
-            \[0.36%, 5.84%\]
+            [0.36%, 5.84%]
             </td>
             </tr>
             <tr>
@@ -1741,7 +1741,7 @@ Total
             22.67%
             </td>
             <td style="text-align:left;">
-            \[16.85%, 28.50%\]
+            [16.85%, 28.50%]
             </td>
             </tr>
             <tr>
@@ -1758,7 +1758,7 @@ Total
             2.32%
             </td>
             <td style="text-align:left;">
-            \[-0.60%, 5.25%\]
+            [-0.60%, 5.25%]
             </td>
             </tr>
             <tr>
@@ -1775,7 +1775,7 @@ Total
             6.47%
             </td>
             <td style="text-align:left;">
-            \[3.37%, 9.57%\]
+            [3.37%, 9.57%]
             </td>
             </tr>
             <tr>
@@ -1792,7 +1792,7 @@ Total
             48.43%
             </td>
             <td style="text-align:left;">
-            \[41.83%, 55.03%\]
+            [41.83%, 55.03%]
             </td>
             </tr>
             <tr>
@@ -1826,7 +1826,7 @@ This value was calculated with replacement.*
 ## *Ethnicity*
 
 *Imputed based on ‘B16. Do you consider yourself Hispanic or Latinx’
-\[UWRDS-PSD\] and ‘24. What is your ethnicity?’ \[UWRDS\]*
+[UWRDS-PSD] and ‘24. What is your ethnicity?’ [UWRDS]*
 
 <div class="col2">
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -1867,7 +1867,7 @@ Do not know
 1.98%
 </td>
 <td style="text-align:left;">
-\[0.47%, 3.49%\]
+[0.47%, 3.49%]
 </td>
 </tr>
 <tr>
@@ -1884,7 +1884,7 @@ Hispanic/Latin(a)(o)(x)
 17.56%
 </td>
 <td style="text-align:left;">
-\[7.53%, 27.60%\]
+[7.53%, 27.60%]
 </td>
 </tr>
 <tr>
@@ -1901,7 +1901,7 @@ Non-Hispanic/Non-Latin(a)(o)(x)
 80.46%
 </td>
 <td style="text-align:left;">
-\[70.22%, 90.69%\]
+[70.22%, 90.69%]
 </td>
 </tr>
 <tr>
@@ -1961,7 +1961,7 @@ Total
             2.15%
             </td>
             <td style="text-align:left;">
-            \[0.26%, 4.04%\]
+            [0.26%, 4.04%]
             </td>
             </tr>
             <tr>
@@ -1978,7 +1978,7 @@ Total
             14.99%
             </td>
             <td style="text-align:left;">
-            \[9.76%, 20.22%\]
+            [9.76%, 20.22%]
             </td>
             </tr>
             <tr>
@@ -1995,7 +1995,7 @@ Total
             82.86%
             </td>
             <td style="text-align:left;">
-            \[77.43%, 88.29%\]
+            [77.43%, 88.29%]
             </td>
             </tr>
             <tr>
@@ -2032,8 +2032,8 @@ This value was calculated with replacement.*
 
 ### *Age (Categorical)*
 
-*Imputed based on ‘A2. How old are you?’ \[UWRDS-PSD\] and ‘4. Date of
-Birth’ \[UWRDS\]*
+*Imputed based on ‘A2. How old are you?’ [UWRDS-PSD] and ‘4. Date of
+Birth’ [UWRDS]*
 
 <div class="col2">
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -2074,7 +2074,7 @@ RDS II 95% CI
 4.85%
 </td>
 <td style="text-align:left;">
-\[-1.87%, 11.56%\]
+[-1.87%, 11.56%]
 </td>
 </tr>
 <tr>
@@ -2091,7 +2091,7 @@ RDS II 95% CI
 20.00%
 </td>
 <td style="text-align:left;">
-\[8.31%, 31.69%\]
+[8.31%, 31.69%]
 </td>
 </tr>
 <tr>
@@ -2108,7 +2108,7 @@ RDS II 95% CI
 23.82%
 </td>
 <td style="text-align:left;">
-\[9.62%, 38.02%\]
+[9.62%, 38.02%]
 </td>
 </tr>
 <tr>
@@ -2125,7 +2125,7 @@ RDS II 95% CI
 18.93%
 </td>
 <td style="text-align:left;">
-\[6.92%, 30.94%\]
+[6.92%, 30.94%]
 </td>
 </tr>
 <tr>
@@ -2142,7 +2142,7 @@ RDS II 95% CI
 22.65%
 </td>
 <td style="text-align:left;">
-\[8.15%, 37.15%\]
+[8.15%, 37.15%]
 </td>
 </tr>
 <tr>
@@ -2159,7 +2159,7 @@ RDS II 95% CI
 9.75%
 </td>
 <td style="text-align:left;">
-\[1.34%, 18.17%\]
+[1.34%, 18.17%]
 </td>
 </tr>
 <tr>
@@ -2219,7 +2219,7 @@ Total
             3.12%
             </td>
             <td style="text-align:left;">
-            \[0.05%, 6.19%\]
+            [0.05%, 6.19%]
             </td>
             </tr>
             <tr>
@@ -2236,7 +2236,7 @@ Total
             21.32%
             </td>
             <td style="text-align:left;">
-            \[15.70%, 26.95%\]
+            [15.70%, 26.95%]
             </td>
             </tr>
             <tr>
@@ -2253,7 +2253,7 @@ Total
             29.39%
             </td>
             <td style="text-align:left;">
-            \[23.64%, 35.13%\]
+            [23.64%, 35.13%]
             </td>
             </tr>
             <tr>
@@ -2270,7 +2270,7 @@ Total
             23.43%
             </td>
             <td style="text-align:left;">
-            \[17.97%, 28.89%\]
+            [17.97%, 28.89%]
             </td>
             </tr>
             <tr>
@@ -2287,7 +2287,7 @@ Total
             16.06%
             </td>
             <td style="text-align:left;">
-            \[12.47%, 19.65%\]
+            [12.47%, 19.65%]
             </td>
             </tr>
             <tr>
@@ -2304,7 +2304,7 @@ Total
             6.68%
             </td>
             <td style="text-align:left;">
-            \[3.05%, 10.32%\]
+            [3.05%, 10.32%]
             </td>
             </tr>
             <tr>
@@ -2385,7 +2385,7 @@ Not Living in Vehicles
 44.43
 </td>
 <td style="text-align:left;">
-\[42.61, 46.25\]
+[42.61, 46.25]
 </td>
 </tr>
 <tr>
@@ -2408,7 +2408,7 @@ Living in Vehicles
 45.91
 </td>
 <td style="text-align:left;">
-\[41.73, 50.09\]
+[41.73, 50.09]
 </td>
 </tr>
 </tbody>
@@ -2466,7 +2466,7 @@ Alabama
 0.200%
 </td>
 <td style="text-align:left;">
-\[0.050%, 0.360%\]
+[0.050%, 0.360%]
 </td>
 </tr>
 <tr>
@@ -2483,7 +2483,7 @@ Alaska
 4.120%
 </td>
 <td style="text-align:left;">
-\[2.330%, 5.910%\]
+[2.330%, 5.910%]
 </td>
 </tr>
 <tr>
@@ -2500,7 +2500,7 @@ Arizona
 3.390%
 </td>
 <td style="text-align:left;">
-\[-7.900%, 14.680%\]
+[-7.900%, 14.680%]
 </td>
 </tr>
 <tr>
@@ -2534,7 +2534,7 @@ California
 10.710%
 </td>
 <td style="text-align:left;">
-\[-5.360%, 26.770%\]
+[-5.360%, 26.770%]
 </td>
 </tr>
 <tr>
@@ -2585,7 +2585,7 @@ Florida
 1.630%
 </td>
 <td style="text-align:left;">
-\[-0.290%, 3.550%\]
+[-0.290%, 3.550%]
 </td>
 </tr>
 <tr>
@@ -2602,7 +2602,7 @@ Georgia
 1.530%
 </td>
 <td style="text-align:left;">
-\[-3.020%, 6.070%\]
+[-3.020%, 6.070%]
 </td>
 </tr>
 <tr>
@@ -2636,7 +2636,7 @@ Idaho
 4.830%
 </td>
 <td style="text-align:left;">
-\[-10.570%, 20.230%\]
+[-10.570%, 20.230%]
 </td>
 </tr>
 <tr>
@@ -2653,7 +2653,7 @@ Illinois
 4.040%
 </td>
 <td style="text-align:left;">
-\[-4.890%, 12.980%\]
+[-4.890%, 12.980%]
 </td>
 </tr>
 <tr>
@@ -2687,7 +2687,7 @@ Iowa
 1.020%
 </td>
 <td style="text-align:left;">
-\[0.110%, 1.920%\]
+[0.110%, 1.920%]
 </td>
 </tr>
 <tr>
@@ -2704,7 +2704,7 @@ Kansas
 0.760%
 </td>
 <td style="text-align:left;">
-\[-1.080%, 2.600%\]
+[-1.080%, 2.600%]
 </td>
 </tr>
 <tr>
@@ -2738,7 +2738,7 @@ Louisiana
 0.310%
 </td>
 <td style="text-align:left;">
-\[0.040%, 0.580%\]
+[0.040%, 0.580%]
 </td>
 </tr>
 <tr>
@@ -2755,7 +2755,7 @@ Massachusetts
 1.400%
 </td>
 <td style="text-align:left;">
-\[-1.270%, 4.070%\]
+[-1.270%, 4.070%]
 </td>
 </tr>
 <tr>
@@ -2772,7 +2772,7 @@ Michigan
 1.730%
 </td>
 <td style="text-align:left;">
-\[-3.880%, 7.340%\]
+[-3.880%, 7.340%]
 </td>
 </tr>
 <tr>
@@ -2823,7 +2823,7 @@ Missouri
 0.610%
 </td>
 <td style="text-align:left;">
-\[0.190%, 1.030%\]
+[0.190%, 1.030%]
 </td>
 </tr>
 <tr>
@@ -2840,7 +2840,7 @@ Montana
 1.220%
 </td>
 <td style="text-align:left;">
-\[-0.510%, 2.950%\]
+[-0.510%, 2.950%]
 </td>
 </tr>
 <tr>
@@ -2925,7 +2925,7 @@ New Mexico
 1.530%
 </td>
 <td style="text-align:left;">
-\[-0.440%, 3.490%\]
+[-0.440%, 3.490%]
 </td>
 </tr>
 <tr>
@@ -2942,7 +2942,7 @@ New York
 3.080%
 </td>
 <td style="text-align:left;">
-\[0.900%, 5.250%\]
+[0.900%, 5.250%]
 </td>
 </tr>
 <tr>
@@ -2976,7 +2976,7 @@ North Dakota
 0.340%
 </td>
 <td style="text-align:left;">
-\[-0.040%, 0.720%\]
+[-0.040%, 0.720%]
 </td>
 </tr>
 <tr>
@@ -2993,7 +2993,7 @@ Ohio
 5.600%
 </td>
 <td style="text-align:left;">
-\[-11.610%, 22.800%\]
+[-11.610%, 22.800%]
 </td>
 </tr>
 <tr>
@@ -3010,7 +3010,7 @@ Oklahoma
 0.280%
 </td>
 <td style="text-align:left;">
-\[0.080%, 0.470%\]
+[0.080%, 0.470%]
 </td>
 </tr>
 <tr>
@@ -3027,7 +3027,7 @@ Oregon
 0.230%
 </td>
 <td style="text-align:left;">
-\[0.060%, 0.410%\]
+[0.060%, 0.410%]
 </td>
 </tr>
 <tr>
@@ -3044,7 +3044,7 @@ Pennsylvania
 1.530%
 </td>
 <td style="text-align:left;">
-\[0.900%, 2.160%\]
+[0.900%, 2.160%]
 </td>
 </tr>
 <tr>
@@ -3061,7 +3061,7 @@ South Carolina
 0.440%
 </td>
 <td style="text-align:left;">
-\[0.160%, 0.720%\]
+[0.160%, 0.720%]
 </td>
 </tr>
 <tr>
@@ -3095,7 +3095,7 @@ Tennessee
 2.290%
 </td>
 <td style="text-align:left;">
-\[-5.240%, 9.820%\]
+[-5.240%, 9.820%]
 </td>
 </tr>
 <tr>
@@ -3112,7 +3112,7 @@ Texas
 1.220%
 </td>
 <td style="text-align:left;">
-\[0.550%, 1.890%\]
+[0.550%, 1.890%]
 </td>
 </tr>
 <tr>
@@ -3129,7 +3129,7 @@ Utah
 1.530%
 </td>
 <td style="text-align:left;">
-\[-0.830%, 3.880%\]
+[-0.830%, 3.880%]
 </td>
 </tr>
 <tr>
@@ -3180,7 +3180,7 @@ Washington
 43.700%
 </td>
 <td style="text-align:left;">
-\[24.510%, 62.880%\]
+[24.510%, 62.880%]
 </td>
 </tr>
 <tr>
@@ -3248,7 +3248,7 @@ Maine
 0.760%
 </td>
 <td style="text-align:left;">
-\[0.380%, 1.140%\]
+[0.380%, 1.140%]
 </td>
 </tr>
 <tr>
@@ -3308,7 +3308,7 @@ Total
             1.260%
             </td>
             <td style="text-align:left;">
-            \[-1.450%, 3.980%\]
+            [-1.450%, 3.980%]
             </td>
             </tr>
             <tr>
@@ -3325,7 +3325,7 @@ Total
             1.560%
             </td>
             <td style="text-align:left;">
-            \[0.680%, 2.440%\]
+            [0.680%, 2.440%]
             </td>
             </tr>
             <tr>
@@ -3342,7 +3342,7 @@ Total
             1.300%
             </td>
             <td style="text-align:left;">
-            \[-1.130%, 3.730%\]
+            [-1.130%, 3.730%]
             </td>
             </tr>
             <tr>
@@ -3359,7 +3359,7 @@ Total
             0.920%
             </td>
             <td style="text-align:left;">
-            \[0.060%, 1.770%\]
+            [0.060%, 1.770%]
             </td>
             </tr>
             <tr>
@@ -3376,7 +3376,7 @@ Total
             9.630%
             </td>
             <td style="text-align:left;">
-            \[6.040%, 13.220%\]
+            [6.040%, 13.220%]
             </td>
             </tr>
             <tr>
@@ -3393,7 +3393,7 @@ Total
             1.290%
             </td>
             <td style="text-align:left;">
-            \[0.820%, 1.760%\]
+            [0.820%, 1.760%]
             </td>
             </tr>
             <tr>
@@ -3410,7 +3410,7 @@ Total
             0.100%
             </td>
             <td style="text-align:left;">
-            \[0.070%, 0.130%\]
+            [0.070%, 0.130%]
             </td>
             </tr>
             <tr>
@@ -3427,7 +3427,7 @@ Total
             5.170%
             </td>
             <td style="text-align:left;">
-            \[0.960%, 9.370%\]
+            [0.960%, 9.370%]
             </td>
             </tr>
             <tr>
@@ -3444,7 +3444,7 @@ Total
             0.850%
             </td>
             <td style="text-align:left;">
-            \[-0.630%, 2.320%\]
+            [-0.630%, 2.320%]
             </td>
             </tr>
             <tr>
@@ -3461,7 +3461,7 @@ Total
             0.950%
             </td>
             <td style="text-align:left;">
-            \[-1.420%, 3.320%\]
+            [-1.420%, 3.320%]
             </td>
             </tr>
             <tr>
@@ -3478,7 +3478,7 @@ Total
             0.480%
             </td>
             <td style="text-align:left;">
-            \[0.090%, 0.860%\]
+            [0.090%, 0.860%]
             </td>
             </tr>
             <tr>
@@ -3495,7 +3495,7 @@ Total
             1.940%
             </td>
             <td style="text-align:left;">
-            \[1.190%, 2.700%\]
+            [1.190%, 2.700%]
             </td>
             </tr>
             <tr>
@@ -3512,7 +3512,7 @@ Total
             0.690%
             </td>
             <td style="text-align:left;">
-            \[0.450%, 0.940%\]
+            [0.450%, 0.940%]
             </td>
             </tr>
             <tr>
@@ -3529,7 +3529,7 @@ Total
             1.070%
             </td>
             <td style="text-align:left;">
-            \[-2.090%, 4.230%\]
+            [-2.090%, 4.230%]
             </td>
             </tr>
             <tr>
@@ -3546,7 +3546,7 @@ Total
             1.710%
             </td>
             <td style="text-align:left;">
-            \[-0.950%, 4.370%\]
+            [-0.950%, 4.370%]
             </td>
             </tr>
             <tr>
@@ -3563,7 +3563,7 @@ Total
             0.620%
             </td>
             <td style="text-align:left;">
-            \[-0.120%, 1.350%\]
+            [-0.120%, 1.350%]
             </td>
             </tr>
             <tr>
@@ -3580,7 +3580,7 @@ Total
             1.200%
             </td>
             <td style="text-align:left;">
-            \[-0.770%, 3.160%\]
+            [-0.770%, 3.160%]
             </td>
             </tr>
             <tr>
@@ -3597,7 +3597,7 @@ Total
             0.480%
             </td>
             <td style="text-align:left;">
-            \[0.350%, 0.600%\]
+            [0.350%, 0.600%]
             </td>
             </tr>
             <tr>
@@ -3614,7 +3614,7 @@ Total
             1.410%
             </td>
             <td style="text-align:left;">
-            \[0.930%, 1.890%\]
+            [0.930%, 1.890%]
             </td>
             </tr>
             <tr>
@@ -3631,7 +3631,7 @@ Total
             2.480%
             </td>
             <td style="text-align:left;">
-            \[0.040%, 4.910%\]
+            [0.040%, 4.910%]
             </td>
             </tr>
             <tr>
@@ -3648,7 +3648,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[0.000%, 0.390%\]
+            [0.000%, 0.390%]
             </td>
             </tr>
             <tr>
@@ -3665,7 +3665,7 @@ Total
             0.740%
             </td>
             <td style="text-align:left;">
-            \[0.030%, 1.450%\]
+            [0.030%, 1.450%]
             </td>
             </tr>
             <tr>
@@ -3682,7 +3682,7 @@ Total
             1.880%
             </td>
             <td style="text-align:left;">
-            \[-0.580%, 4.330%\]
+            [-0.580%, 4.330%]
             </td>
             </tr>
             <tr>
@@ -3699,7 +3699,7 @@ Total
             0.630%
             </td>
             <td style="text-align:left;">
-            \[-1.520%, 2.770%\]
+            [-1.520%, 2.770%]
             </td>
             </tr>
             <tr>
@@ -3716,7 +3716,7 @@ Total
             0.420%
             </td>
             <td style="text-align:left;">
-            \[0.210%, 0.620%\]
+            [0.210%, 0.620%]
             </td>
             </tr>
             <tr>
@@ -3733,7 +3733,7 @@ Total
             0.210%
             </td>
             <td style="text-align:left;">
-            \[-0.490%, 0.910%\]
+            [-0.490%, 0.910%]
             </td>
             </tr>
             <tr>
@@ -3750,7 +3750,7 @@ Total
             1.340%
             </td>
             <td style="text-align:left;">
-            \[-0.390%, 3.070%\]
+            [-0.390%, 3.070%]
             </td>
             </tr>
             <tr>
@@ -3767,7 +3767,7 @@ Total
             1.000%
             </td>
             <td style="text-align:left;">
-            \[-1.530%, 3.520%\]
+            [-1.530%, 3.520%]
             </td>
             </tr>
             <tr>
@@ -3784,7 +3784,7 @@ Total
             1.260%
             </td>
             <td style="text-align:left;">
-            \[-0.740%, 3.260%\]
+            [-0.740%, 3.260%]
             </td>
             </tr>
             <tr>
@@ -3801,7 +3801,7 @@ Total
             0.660%
             </td>
             <td style="text-align:left;">
-            \[-0.050%, 1.370%\]
+            [-0.050%, 1.370%]
             </td>
             </tr>
             <tr>
@@ -3818,7 +3818,7 @@ Total
             0.550%
             </td>
             <td style="text-align:left;">
-            \[0.320%, 0.770%\]
+            [0.320%, 0.770%]
             </td>
             </tr>
             <tr>
@@ -3835,7 +3835,7 @@ Total
             1.410%
             </td>
             <td style="text-align:left;">
-            \[-0.100%, 2.920%\]
+            [-0.100%, 2.920%]
             </td>
             </tr>
             <tr>
@@ -3852,7 +3852,7 @@ Total
             1.280%
             </td>
             <td style="text-align:left;">
-            \[-0.850%, 3.400%\]
+            [-0.850%, 3.400%]
             </td>
             </tr>
             <tr>
@@ -3869,7 +3869,7 @@ Total
             3.040%
             </td>
             <td style="text-align:left;">
-            \[1.550%, 4.530%\]
+            [1.550%, 4.530%]
             </td>
             </tr>
             <tr>
@@ -3886,7 +3886,7 @@ Total
             0.980%
             </td>
             <td style="text-align:left;">
-            \[-1.350%, 3.300%\]
+            [-1.350%, 3.300%]
             </td>
             </tr>
             <tr>
@@ -3903,7 +3903,7 @@ Total
             0.230%
             </td>
             <td style="text-align:left;">
-            \[0.070%, 0.380%\]
+            [0.070%, 0.380%]
             </td>
             </tr>
             <tr>
@@ -3920,7 +3920,7 @@ Total
             0.240%
             </td>
             <td style="text-align:left;">
-            \[-0.530%, 1.000%\]
+            [-0.530%, 1.000%]
             </td>
             </tr>
             <tr>
@@ -3937,7 +3937,7 @@ Total
             0.450%
             </td>
             <td style="text-align:left;">
-            \[0.200%, 0.690%\]
+            [0.200%, 0.690%]
             </td>
             </tr>
             <tr>
@@ -3954,7 +3954,7 @@ Total
             3.350%
             </td>
             <td style="text-align:left;">
-            \[1.680%, 5.030%\]
+            [1.680%, 5.030%]
             </td>
             </tr>
             <tr>
@@ -3971,7 +3971,7 @@ Total
             0.380%
             </td>
             <td style="text-align:left;">
-            \[-0.290%, 1.040%\]
+            [-0.290%, 1.040%]
             </td>
             </tr>
             <tr>
@@ -3988,7 +3988,7 @@ Total
             0.100%
             </td>
             <td style="text-align:left;">
-            \[0.010%, 0.200%\]
+            [0.010%, 0.200%]
             </td>
             </tr>
             <tr>
@@ -4005,7 +4005,7 @@ Total
             0.640%
             </td>
             <td style="text-align:left;">
-            \[-1.480%, 2.760%\]
+            [-1.480%, 2.760%]
             </td>
             </tr>
             <tr>
@@ -4022,7 +4022,7 @@ Total
             42.380%
             </td>
             <td style="text-align:left;">
-            \[35.170%, 49.590%\]
+            [35.170%, 49.590%]
             </td>
             </tr>
             <tr>
@@ -4039,7 +4039,7 @@ Total
             0.540%
             </td>
             <td style="text-align:left;">
-            \[-0.160%, 1.240%\]
+            [-0.160%, 1.240%]
             </td>
             </tr>
             <tr>
@@ -4056,7 +4056,7 @@ Total
             0.900%
             </td>
             <td style="text-align:left;">
-            \[0.170%, 1.630%\]
+            [0.170%, 1.630%]
             </td>
             </tr>
             <tr>
@@ -4073,7 +4073,7 @@ Total
             0.140%
             </td>
             <td style="text-align:left;">
-            \[0.110%, 0.170%\]
+            [0.110%, 0.170%]
             </td>
             </tr>
             <tr>
@@ -4233,7 +4233,7 @@ Germany
 2.960%
 </td>
 <td style="text-align:left;">
-\[-9.72%, 15.640%\]
+[-9.72%, 15.640%]
 </td>
 </tr>
 <tr>
@@ -4369,7 +4369,7 @@ Kazakhstan
 0.170%
 </td>
 <td style="text-align:left;">
-\[0.03%, 0.310%\]
+[0.03%, 0.310%]
 </td>
 </tr>
 <tr>
@@ -4488,7 +4488,7 @@ Mexico
 2.540%
 </td>
 <td style="text-align:left;">
-\[-1.12%, 6.200%\]
+[-1.12%, 6.200%]
 </td>
 </tr>
 <tr>
@@ -4539,7 +4539,7 @@ Philippines
 4.650%
 </td>
 <td style="text-align:left;">
-\[-8.47%, 17.770%\]
+[-8.47%, 17.770%]
 </td>
 </tr>
 <tr>
@@ -4675,7 +4675,7 @@ United States
 83.130%
 </td>
 <td style="text-align:left;">
-\[65.66%, 100.600%\]
+[65.66%, 100.600%]
 </td>
 </tr>
 <tr>
@@ -4692,7 +4692,7 @@ Costa Rica
 2.540%
 </td>
 <td style="text-align:left;">
-\[1.26%, 3.810%\]
+[1.26%, 3.810%]
 </td>
 </tr>
 <tr>
@@ -4709,7 +4709,7 @@ France
 1.270%
 </td>
 <td style="text-align:left;">
-\[-1.85%, 4.390%\]
+[-1.85%, 4.390%]
 </td>
 </tr>
 <tr>
@@ -4726,7 +4726,7 @@ Haiti
 0.630%
 </td>
 <td style="text-align:left;">
-\[0.27%, 1.000%\]
+[0.27%, 1.000%]
 </td>
 </tr>
 <tr>
@@ -4743,7 +4743,7 @@ Italy
 1.270%
 </td>
 <td style="text-align:left;">
-\[-1.24%, 3.770%\]
+[-1.24%, 3.770%]
 </td>
 </tr>
 <tr>
@@ -4760,7 +4760,7 @@ Ukraine
 0.850%
 </td>
 <td style="text-align:left;">
-\[-0.83%, 2.530%\]
+[-0.83%, 2.530%]
 </td>
 </tr>
 <tr>
@@ -4820,7 +4820,7 @@ Total
             0.390%
             </td>
             <td style="text-align:left;">
-            \[-1.15%, 1.920%\]
+            [-1.15%, 1.920%]
             </td>
             </tr>
             <tr>
@@ -4837,7 +4837,7 @@ Total
             0.940%
             </td>
             <td style="text-align:left;">
-            \[-1.22%, 3.100%\]
+            [-1.22%, 3.100%]
             </td>
             </tr>
             <tr>
@@ -4854,7 +4854,7 @@ Total
             0.040%
             </td>
             <td style="text-align:left;">
-            \[0.02%, 0.060%\]
+            [0.02%, 0.060%]
             </td>
             </tr>
             <tr>
@@ -4871,7 +4871,7 @@ Total
             0.680%
             </td>
             <td style="text-align:left;">
-            \[0.41%, 0.950%\]
+            [0.41%, 0.950%]
             </td>
             </tr>
             <tr>
@@ -4888,7 +4888,7 @@ Total
             0.030%
             </td>
             <td style="text-align:left;">
-            \[0.02%, 0.030%\]
+            [0.02%, 0.030%]
             </td>
             </tr>
             <tr>
@@ -4905,7 +4905,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[-0.33%, 0.720%\]
+            [-0.33%, 0.720%]
             </td>
             </tr>
             <tr>
@@ -4922,7 +4922,7 @@ Total
             0.520%
             </td>
             <td style="text-align:left;">
-            \[-0.95%, 1.990%\]
+            [-0.95%, 1.990%]
             </td>
             </tr>
             <tr>
@@ -4939,7 +4939,7 @@ Total
             0.130%
             </td>
             <td style="text-align:left;">
-            \[-0.03%, 0.290%\]
+            [-0.03%, 0.290%]
             </td>
             </tr>
             <tr>
@@ -4956,7 +4956,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[0.14%, 0.250%\]
+            [0.14%, 0.250%]
             </td>
             </tr>
             <tr>
@@ -4973,7 +4973,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[0.15%, 0.230%\]
+            [0.15%, 0.230%]
             </td>
             </tr>
             <tr>
@@ -4990,7 +4990,7 @@ Total
             0.060%
             </td>
             <td style="text-align:left;">
-            \[0.04%, 0.090%\]
+            [0.04%, 0.090%]
             </td>
             </tr>
             <tr>
@@ -5007,7 +5007,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[-0.56%, 0.950%\]
+            [-0.56%, 0.950%]
             </td>
             </tr>
             <tr>
@@ -5024,7 +5024,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[-0.08%, 0.470%\]
+            [-0.08%, 0.470%]
             </td>
             </tr>
             <tr>
@@ -5041,7 +5041,7 @@ Total
             0.090%
             </td>
             <td style="text-align:left;">
-            \[0.02%, 0.160%\]
+            [0.02%, 0.160%]
             </td>
             </tr>
             <tr>
@@ -5058,7 +5058,7 @@ Total
             0.040%
             </td>
             <td style="text-align:left;">
-            \[0.01%, 0.070%\]
+            [0.01%, 0.070%]
             </td>
             </tr>
             <tr>
@@ -5075,7 +5075,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[0.08%, 0.310%\]
+            [0.08%, 0.310%]
             </td>
             </tr>
             <tr>
@@ -5092,7 +5092,7 @@ Total
             0.130%
             </td>
             <td style="text-align:left;">
-            \[0.02%, 0.240%\]
+            [0.02%, 0.240%]
             </td>
             </tr>
             <tr>
@@ -5109,7 +5109,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[0.02%, 0.370%\]
+            [0.02%, 0.370%]
             </td>
             </tr>
             <tr>
@@ -5126,7 +5126,7 @@ Total
             0.030%
             </td>
             <td style="text-align:left;">
-            \[0.01%, 0.040%\]
+            [0.01%, 0.040%]
             </td>
             </tr>
             <tr>
@@ -5143,7 +5143,7 @@ Total
             0.600%
             </td>
             <td style="text-align:left;">
-            \[-0.04%, 1.230%\]
+            [-0.04%, 1.230%]
             </td>
             </tr>
             <tr>
@@ -5160,7 +5160,7 @@ Total
             0.390%
             </td>
             <td style="text-align:left;">
-            \[-1.42%, 2.200%\]
+            [-1.42%, 2.200%]
             </td>
             </tr>
             <tr>
@@ -5177,7 +5177,7 @@ Total
             0.100%
             </td>
             <td style="text-align:left;">
-            \[-0.03%, 0.230%\]
+            [-0.03%, 0.230%]
             </td>
             </tr>
             <tr>
@@ -5194,7 +5194,7 @@ Total
             0.050%
             </td>
             <td style="text-align:left;">
-            \[0.03%, 0.070%\]
+            [0.03%, 0.070%]
             </td>
             </tr>
             <tr>
@@ -5211,7 +5211,7 @@ Total
             0.130%
             </td>
             <td style="text-align:left;">
-            \[-0.21%, 0.460%\]
+            [-0.21%, 0.460%]
             </td>
             </tr>
             <tr>
@@ -5228,7 +5228,7 @@ Total
             0.130%
             </td>
             <td style="text-align:left;">
-            \[0.06%, 0.200%\]
+            [0.06%, 0.200%]
             </td>
             </tr>
             <tr>
@@ -5245,7 +5245,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[-0.50%, 0.880%\]
+            [-0.50%, 0.880%]
             </td>
             </tr>
             <tr>
@@ -5262,7 +5262,7 @@ Total
             0.190%
             </td>
             <td style="text-align:left;">
-            \[-0.38%, 0.770%\]
+            [-0.38%, 0.770%]
             </td>
             </tr>
             <tr>
@@ -5279,7 +5279,7 @@ Total
             0.160%
             </td>
             <td style="text-align:left;">
-            \[0.03%, 0.280%\]
+            [0.03%, 0.280%]
             </td>
             </tr>
             <tr>
@@ -5296,7 +5296,7 @@ Total
             0.130%
             </td>
             <td style="text-align:left;">
-            \[0.09%, 0.170%\]
+            [0.09%, 0.170%]
             </td>
             </tr>
             <tr>
@@ -5313,7 +5313,7 @@ Total
             0.130%
             </td>
             <td style="text-align:left;">
-            \[-0.15%, 0.410%\]
+            [-0.15%, 0.410%]
             </td>
             </tr>
             <tr>
@@ -5330,7 +5330,7 @@ Total
             93.380%
             </td>
             <td style="text-align:left;">
-            \[89.65%, 97.110%\]
+            [89.65%, 97.110%]
             </td>
             </tr>
             <tr>
@@ -5498,7 +5498,7 @@ Not Living in Vehicles
 19.88
 </td>
 <td style="text-align:left;">
-\[17.39, 22.37\]
+[17.39, 22.37]
 </td>
 </tr>
 <tr>
@@ -5521,7 +5521,7 @@ Living in Vehicles
 23.39
 </td>
 <td style="text-align:left;">
-\[16.18, 30.59\]
+[16.18, 30.59]
 </td>
 </tr>
 </tbody>
@@ -5537,8 +5537,8 @@ vehicles is not significant, t(502.76) = 0.9, (p= 0.368).*
 ## *Health Status*
 
 *Imputed based on ‘D1. In general, would you say your health is’
-\[UWRDS-PSD\] and ‘16. How would you rate your health status?’
-\[UWRDS\]*
+[UWRDS-PSD] and ‘16. How would you rate your health status?’
+[UWRDS]*
 
 <div class="col2">
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -5579,7 +5579,7 @@ Excellent
 11.23%
 </td>
 <td style="text-align:left;">
-\[3.05%, 19.42%\]
+[3.05%, 19.42%]
 </td>
 </tr>
 <tr>
@@ -5596,7 +5596,7 @@ Fair
 42.72%
 </td>
 <td style="text-align:left;">
-\[26.41%, 59.03%\]
+[26.41%, 59.03%]
 </td>
 </tr>
 <tr>
@@ -5613,7 +5613,7 @@ Good
 34.22%
 </td>
 <td style="text-align:left;">
-\[19.92%, 48.52%\]
+[19.92%, 48.52%]
 </td>
 </tr>
 <tr>
@@ -5630,7 +5630,7 @@ Poor
 11.82%
 </td>
 <td style="text-align:left;">
-\[3.66%, 19.99%\]
+[3.66%, 19.99%]
 </td>
 </tr>
 <tr>
@@ -5690,7 +5690,7 @@ Total
             10.88%
             </td>
             <td style="text-align:left;">
-            \[7.32%, 14.45%\]
+            [7.32%, 14.45%]
             </td>
             </tr>
             <tr>
@@ -5707,7 +5707,7 @@ Total
             36.96%
             </td>
             <td style="text-align:left;">
-            \[30.74%, 43.18%\]
+            [30.74%, 43.18%]
             </td>
             </tr>
             <tr>
@@ -5724,7 +5724,7 @@ Total
             37.84%
             </td>
             <td style="text-align:left;">
-            \[31.73%, 43.95%\]
+            [31.73%, 43.95%]
             </td>
             </tr>
             <tr>
@@ -5741,7 +5741,7 @@ Total
             14.32%
             </td>
             <td style="text-align:left;">
-            \[9.31%, 19.32%\]
+            [9.31%, 19.32%]
             </td>
             </tr>
             <tr>
@@ -5816,7 +5816,7 @@ Choose not to answer
 2.44%
 </td>
 <td style="text-align:left;">
-\[-9.32%, 14.20%\]
+[-9.32%, 14.20%]
 </td>
 </tr>
 <tr>
@@ -5833,7 +5833,7 @@ Do not know
 4.47%
 </td>
 <td style="text-align:left;">
-\[-2.85%, 11.80%\]
+[-2.85%, 11.80%]
 </td>
 </tr>
 <tr>
@@ -5850,7 +5850,7 @@ No
 39.74%
 </td>
 <td style="text-align:left;">
-\[21.29%, 58.19%\]
+[21.29%, 58.19%]
 </td>
 </tr>
 <tr>
@@ -5867,7 +5867,7 @@ Yes
 53.35%
 </td>
 <td style="text-align:left;">
-\[35.35%, 71.35%\]
+[35.35%, 71.35%]
 </td>
 </tr>
 <tr>
@@ -5927,7 +5927,7 @@ Total
             1.09%
             </td>
             <td style="text-align:left;">
-            \[-0.08%, 2.26%\]
+            [-0.08%, 2.26%]
             </td>
             </tr>
             <tr>
@@ -5944,7 +5944,7 @@ Total
             3.08%
             </td>
             <td style="text-align:left;">
-            \[0.62%, 5.55%\]
+            [0.62%, 5.55%]
             </td>
             </tr>
             <tr>
@@ -5961,7 +5961,7 @@ Total
             47.63%
             </td>
             <td style="text-align:left;">
-            \[40.48%, 54.78%\]
+            [40.48%, 54.78%]
             </td>
             </tr>
             <tr>
@@ -5978,7 +5978,7 @@ Total
             48.20%
             </td>
             <td style="text-align:left;">
-            \[41.11%, 55.30%\]
+            [41.11%, 55.30%]
             </td>
             </tr>
             <tr>
@@ -6053,7 +6053,7 @@ Choose not to answer
 3.25%
 </td>
 <td style="text-align:left;">
-\[-8.44%, 14.9%\]
+[-8.44%, 14.9%]
 </td>
 </tr>
 <tr>
@@ -6070,7 +6070,7 @@ Do not know
 3.66%
 </td>
 <td style="text-align:left;">
-\[-5.03%, 12.4%\]
+[-5.03%, 12.4%]
 </td>
 </tr>
 <tr>
@@ -6087,7 +6087,7 @@ No
 59.87%
 </td>
 <td style="text-align:left;">
-\[41.58%, 78.2%\]
+[41.58%, 78.2%]
 </td>
 </tr>
 <tr>
@@ -6104,7 +6104,7 @@ Yes
 33.22%
 </td>
 <td style="text-align:left;">
-\[16.10%, 50.3%\]
+[16.10%, 50.3%]
 </td>
 </tr>
 <tr>
@@ -6164,7 +6164,7 @@ Total
             1.85%
             </td>
             <td style="text-align:left;">
-            \[0.14%, 3.6%\]
+            [0.14%, 3.6%]
             </td>
             </tr>
             <tr>
@@ -6181,7 +6181,7 @@ Total
             3.05%
             </td>
             <td style="text-align:left;">
-            \[-0.18%, 6.3%\]
+            [-0.18%, 6.3%]
             </td>
             </tr>
             <tr>
@@ -6198,7 +6198,7 @@ Total
             62.34%
             </td>
             <td style="text-align:left;">
-            \[55.66%, 69.0%\]
+            [55.66%, 69.0%]
             </td>
             </tr>
             <tr>
@@ -6215,7 +6215,7 @@ Total
             32.76%
             </td>
             <td style="text-align:left;">
-            \[26.50%, 39.0%\]
+            [26.50%, 39.0%]
             </td>
             </tr>
             <tr>
@@ -6307,7 +6307,7 @@ Do not know
 3.8%
 </td>
 <td style="text-align:left;">
-\[-2.93%, 10.6%\]
+[-2.93%, 10.6%]
 </td>
 </tr>
 <tr>
@@ -6324,7 +6324,7 @@ No
 55.0%
 </td>
 <td style="text-align:left;">
-\[37.30%, 72.7%\]
+[37.30%, 72.7%]
 </td>
 </tr>
 <tr>
@@ -6341,7 +6341,7 @@ Yes
 41.2%
 </td>
 <td style="text-align:left;">
-\[23.77%, 58.6%\]
+[23.77%, 58.6%]
 </td>
 </tr>
 <tr>
@@ -6401,7 +6401,7 @@ Total
             2.4%
             </td>
             <td style="text-align:left;">
-            \[-0.55%, 5.2%\]
+            [-0.55%, 5.2%]
             </td>
             </tr>
             <tr>
@@ -6418,7 +6418,7 @@ Total
             1.0%
             </td>
             <td style="text-align:left;">
-            \[-1.51%, 3.5%\]
+            [-1.51%, 3.5%]
             </td>
             </tr>
             <tr>
@@ -6435,7 +6435,7 @@ Total
             53.6%
             </td>
             <td style="text-align:left;">
-            \[46.51%, 60.7%\]
+            [46.51%, 60.7%]
             </td>
             </tr>
             <tr>
@@ -6452,7 +6452,7 @@ Total
             43.1%
             </td>
             <td style="text-align:left;">
-            \[36.14%, 50.0%\]
+            [36.14%, 50.0%]
             </td>
             </tr>
             <tr>
@@ -6488,9 +6488,9 @@ This value was calculated with replacement.*
 ## *Ever Evicted*
 
 *Imputed based on ‘15. Have you ever been evicted from a rental
-property?’ \[UWRDS\] and ‘Now think about the last place you lived,
+property?’ [UWRDS] and ‘Now think about the last place you lived,
 before you moved to your current residence. Were you forcibly evicted
-from that last place you lived?’ \[UWRDS-PSD\]*
+from that last place you lived?’ [UWRDS-PSD]*
 
 <div class="col2">
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -6531,7 +6531,7 @@ No
 70.2%
 </td>
 <td style="text-align:left;">
-\[53.3%, 87.0%\]
+[53.3%, 87.0%]
 </td>
 </tr>
 <tr>
@@ -6548,7 +6548,7 @@ Yes
 29.8%
 </td>
 <td style="text-align:left;">
-\[13.0%, 46.7%\]
+[13.0%, 46.7%]
 </td>
 </tr>
 <tr>
@@ -6608,7 +6608,7 @@ Total
             76.7%
             </td>
             <td style="text-align:left;">
-            \[71.0%, 82.3%\]
+            [71.0%, 82.3%]
             </td>
             </tr>
             <tr>
@@ -6625,7 +6625,7 @@ Total
             23.3%
             </td>
             <td style="text-align:left;">
-            \[17.7%, 29.0%\]
+            [17.7%, 29.0%]
             </td>
             </tr>
             <tr>
@@ -6659,8 +6659,8 @@ This value was calculated with replacement.*
 ## *Age at Eviction*
 
 *Imputed based on ‘15.1 How old were you? (please enter a number, for
-example: 30) \[if yes to ’15. Have you ever been evicted from a rental
-property?’\]’ This variable is not included for UWRDS-PSD survey
+example: 30) [if yes to ’15. Have you ever been evicted from a rental
+property?’]’ This variable is not included for UWRDS-PSD survey
 observations.*
 
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -6710,7 +6710,7 @@ Not Living in Vehicles
 31.32
 </td>
 <td style="text-align:left;">
-\[28.33, 34.3\]
+[28.33, 34.3]
 </td>
 </tr>
 <tr>
@@ -6733,7 +6733,7 @@ Living in Vehicles
 34.65
 </td>
 <td style="text-align:left;">
-\[23, 46.31\]
+[23, 46.31]
 </td>
 </tr>
 </tbody>
@@ -6788,7 +6788,7 @@ No
 59.0%
 </td>
 <td style="text-align:left;">
-\[30.6%, 87.3%\]
+[30.6%, 87.3%]
 </td>
 </tr>
 <tr>
@@ -6805,7 +6805,7 @@ Yes
 41.0%
 </td>
 <td style="text-align:left;">
-\[12.7%, 69.4%\]
+[12.7%, 69.4%]
 </td>
 </tr>
 <tr>
@@ -6865,7 +6865,7 @@ Total
             51.6%
             </td>
             <td style="text-align:left;">
-            \[36.3%, 66.8%\]
+            [36.3%, 66.8%]
             </td>
             </tr>
             <tr>
@@ -6882,7 +6882,7 @@ Total
             48.4%
             </td>
             <td style="text-align:left;">
-            \[33.2%, 63.7%\]
+            [33.2%, 63.7%]
             </td>
             </tr>
             <tr>
@@ -6920,7 +6920,7 @@ This value was calculated with replacement.*
 ### *Where did you sleep last night?*
 
 *Respondent’s sleep location based on ‘A. Regular residence’ in
-\[UWRDS-PSD\] and ‘7. Where did you sleep last night?’ \[UWRDS\]*
+[UWRDS-PSD] and ‘7. Where did you sleep last night?’ [UWRDS]*
 
 <div class="col2">
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -7080,7 +7080,7 @@ Car or RV
 98.19%
 </td>
 <td style="text-align:left;">
-\[94.96%, 101.42%\]
+[94.96%, 101.42%]
 </td>
 </tr>
 <tr>
@@ -7097,7 +7097,7 @@ Mobile home or trailer
 1.81%
 </td>
 <td style="text-align:left;">
-\[-1.42%, 5.04%\]
+[-1.42%, 5.04%]
 </td>
 </tr>
 <tr>
@@ -7157,7 +7157,7 @@ Total
             0.34%
             </td>
             <td style="text-align:left;">
-            \[0.01%, 0.66%\]
+            [0.01%, 0.66%]
             </td>
             </tr>
             <tr>
@@ -7174,7 +7174,7 @@ Total
             1.35%
             </td>
             <td style="text-align:left;">
-            \[-0.43%, 3.13%\]
+            [-0.43%, 3.13%]
             </td>
             </tr>
             <tr>
@@ -7191,7 +7191,7 @@ Total
             11.84%
             </td>
             <td style="text-align:left;">
-            \[6.93%, 16.76%\]
+            [6.93%, 16.76%]
             </td>
             </tr>
             <tr>
@@ -7208,7 +7208,7 @@ Total
             30.13%
             </td>
             <td style="text-align:left;">
-            \[23.82%, 36.43%\]
+            [23.82%, 36.43%]
             </td>
             </tr>
             <tr>
@@ -7225,7 +7225,7 @@ Total
             0.42%
             </td>
             <td style="text-align:left;">
-            \[-0.01%, 0.85%\]
+            [-0.01%, 0.85%]
             </td>
             </tr>
             <tr>
@@ -7242,7 +7242,7 @@ Total
             31.27%
             </td>
             <td style="text-align:left;">
-            \[25.43%, 37.10%\]
+            [25.43%, 37.10%]
             </td>
             </tr>
             <tr>
@@ -7259,7 +7259,7 @@ Total
             24.66%
             </td>
             <td style="text-align:left;">
-            \[19.67%, 29.65%\]
+            [19.67%, 29.65%]
             </td>
             </tr>
             <tr>
@@ -7691,7 +7691,7 @@ In a car, truck, or van (smaller vehicle)
 68.30%
 </td>
 <td style="text-align:left;">
-\[53.59%, 83.01%\]
+[53.59%, 83.01%]
 </td>
 </tr>
 <tr>
@@ -7708,7 +7708,7 @@ In an RV, trailer, or bus (larger vehicle)
 31.70%
 </td>
 <td style="text-align:left;">
-\[16.99%, 46.41%\]
+[16.99%, 46.41%]
 </td>
 </tr>
 <tr>
@@ -7768,7 +7768,7 @@ Total
             0.23%
             </td>
             <td style="text-align:left;">
-            \[-0.20%, 0.67%\]
+            [-0.20%, 0.67%]
             </td>
             </tr>
             <tr>
@@ -7785,7 +7785,7 @@ Total
             0.19%
             </td>
             <td style="text-align:left;">
-            \[-0.33%, 0.71%\]
+            [-0.33%, 0.71%]
             </td>
             </tr>
             <tr>
@@ -7802,7 +7802,7 @@ Total
             1.88%
             </td>
             <td style="text-align:left;">
-            \[0.93%, 2.82%\]
+            [0.93%, 2.82%]
             </td>
             </tr>
             <tr>
@@ -7819,7 +7819,7 @@ Total
             14.10%
             </td>
             <td style="text-align:left;">
-            \[9.27%, 18.93%\]
+            [9.27%, 18.93%]
             </td>
             </tr>
             <tr>
@@ -7836,7 +7836,7 @@ Total
             6.38%
             </td>
             <td style="text-align:left;">
-            \[3.74%, 9.01%\]
+            [3.74%, 9.01%]
             </td>
             </tr>
             <tr>
@@ -7853,7 +7853,7 @@ Total
             3.32%
             </td>
             <td style="text-align:left;">
-            \[0.23%, 6.41%\]
+            [0.23%, 6.41%]
             </td>
             </tr>
             <tr>
@@ -7870,7 +7870,7 @@ Total
             2.70%
             </td>
             <td style="text-align:left;">
-            \[1.68%, 3.71%\]
+            [1.68%, 3.71%]
             </td>
             </tr>
             <tr>
@@ -7888,7 +7888,7 @@ Total
             6.61%
             </td>
             <td style="text-align:left;">
-            \[3.30%, 9.92%\]
+            [3.30%, 9.92%]
             </td>
             </tr>
             <tr>
@@ -7905,7 +7905,7 @@ Total
             2.05%
             </td>
             <td style="text-align:left;">
-            \[-0.02%, 4.11%\]
+            [-0.02%, 4.11%]
             </td>
             </tr>
             <tr>
@@ -7923,7 +7923,7 @@ Total
             9.99%
             </td>
             <td style="text-align:left;">
-            \[4.68%, 15.30%\]
+            [4.68%, 15.30%]
             </td>
             </tr>
             <tr>
@@ -7940,7 +7940,7 @@ Total
             0.31%
             </td>
             <td style="text-align:left;">
-            \[-0.05%, 0.67%\]
+            [-0.05%, 0.67%]
             </td>
             </tr>
             <tr>
@@ -7957,7 +7957,7 @@ Total
             0.53%
             </td>
             <td style="text-align:left;">
-            \[0.10%, 0.96%\]
+            [0.10%, 0.96%]
             </td>
             </tr>
             <tr>
@@ -7974,7 +7974,7 @@ Total
             23.31%
             </td>
             <td style="text-align:left;">
-            \[17.87%, 28.75%\]
+            [17.87%, 28.75%]
             </td>
             </tr>
             <tr>
@@ -7991,7 +7991,7 @@ Total
             25.18%
             </td>
             <td style="text-align:left;">
-            \[18.24%, 32.12%\]
+            [18.24%, 32.12%]
             </td>
             </tr>
             <tr>
@@ -8008,7 +8008,7 @@ Total
             0.66%
             </td>
             <td style="text-align:left;">
-            \[-1.19%, 2.52%\]
+            [-1.19%, 2.52%]
             </td>
             </tr>
             <tr>
@@ -8025,7 +8025,7 @@ Total
             0.27%
             </td>
             <td style="text-align:left;">
-            \[-0.07%, 0.60%\]
+            [-0.07%, 0.60%]
             </td>
             </tr>
             <tr>
@@ -8042,7 +8042,7 @@ Total
             0.45%
             </td>
             <td style="text-align:left;">
-            \[-1.56%, 2.47%\]
+            [-1.56%, 2.47%]
             </td>
             </tr>
             <tr>
@@ -8059,7 +8059,7 @@ Total
             1.72%
             </td>
             <td style="text-align:left;">
-            \[0.07%, 3.38%\]
+            [0.07%, 3.38%]
             </td>
             </tr>
             <tr>
@@ -8076,7 +8076,7 @@ Total
             0.12%
             </td>
             <td style="text-align:left;">
-            \[0.10%, 0.15%\]
+            [0.10%, 0.15%]
             </td>
             </tr>
             <tr>
@@ -8202,7 +8202,7 @@ Unsheltered
 100%
 </td>
 <td style="text-align:left;">
-\[100%, 100%\]
+[100%, 100%]
 </td>
 </tr>
 <tr>
@@ -8262,7 +8262,7 @@ Total
             17%
             </td>
             <td style="text-align:left;">
-            \[10%, 24%\]
+            [10%, 24%]
             </td>
             </tr>
             <tr>
@@ -8279,7 +8279,7 @@ Total
             83%
             </td>
             <td style="text-align:left;">
-            \[76%, 90%\]
+            [76%, 90%]
             </td>
             </tr>
             <tr>
@@ -8355,7 +8355,7 @@ No
 45.8%
 </td>
 <td style="text-align:left;">
-\[28.52%, 63.06%\]
+[28.52%, 63.06%]
 </td>
 </tr>
 <tr>
@@ -8372,7 +8372,7 @@ Prefer not to answer
 2.5%
 </td>
 <td style="text-align:left;">
-\[1.01%, 3.91%\]
+[1.01%, 3.91%]
 </td>
 </tr>
 <tr>
@@ -8389,7 +8389,7 @@ Yes
 51.8%
 </td>
 <td style="text-align:left;">
-\[34.08%, 69.42%\]
+[34.08%, 69.42%]
 </td>
 </tr>
 <tr>
@@ -8449,7 +8449,7 @@ Total
             40.7%
             </td>
             <td style="text-align:left;">
-            \[33.73%, 47.73%\]
+            [33.73%, 47.73%]
             </td>
             </tr>
             <tr>
@@ -8466,7 +8466,7 @@ Total
             4.2%
             </td>
             <td style="text-align:left;">
-            \[0.68%, 7.67%\]
+            [0.68%, 7.67%]
             </td>
             </tr>
             <tr>
@@ -8483,7 +8483,7 @@ Total
             55.1%
             </td>
             <td style="text-align:left;">
-            \[47.89%, 62.29%\]
+            [47.89%, 62.29%]
             </td>
             </tr>
             <tr>
@@ -8559,7 +8559,7 @@ Prefers Hotel or Motel
 72.7%
 </td>
 <td style="text-align:left;">
-\[23.1%, 122.3%\]
+[23.1%, 122.3%]
 </td>
 </tr>
 <tr>
@@ -8610,7 +8610,7 @@ Prefers Tiny House Village
 27.3%
 </td>
 <td style="text-align:left;">
-\[-22.3%, 76.9%\]
+[-22.3%, 76.9%]
 </td>
 </tr>
 <tr>
@@ -8670,7 +8670,7 @@ Total
             54.1%
             </td>
             <td style="text-align:left;">
-            \[36.0%, 72.2%\]
+            [36.0%, 72.2%]
             </td>
             </tr>
             <tr>
@@ -8687,7 +8687,7 @@ Total
             14.1%
             </td>
             <td style="text-align:left;">
-            \[7.1%, 21.1%\]
+            [7.1%, 21.1%]
             </td>
             </tr>
             <tr>
@@ -8704,7 +8704,7 @@ Total
             5.6%
             </td>
             <td style="text-align:left;">
-            \[-2.2%, 13.3%\]
+            [-2.2%, 13.3%]
             </td>
             </tr>
             <tr>
@@ -8721,7 +8721,7 @@ Total
             26.2%
             </td>
             <td style="text-align:left;">
-            \[8.3%, 44.1%\]
+            [8.3%, 44.1%]
             </td>
             </tr>
             <tr>
@@ -8806,7 +8806,7 @@ Not Living in Vehicles
 2009.70
 </td>
 <td style="text-align:left;">
-\[2007.55, 2011.85\]
+[2007.55, 2011.85]
 </td>
 </tr>
 <tr>
@@ -8829,7 +8829,7 @@ Living in Vehicles
 2011.45
 </td>
 <td style="text-align:left;">
-\[2009.02, 2013.88\]
+[2009.02, 2013.88]
 </td>
 </tr>
 </tbody>
@@ -8842,8 +8842,8 @@ vehicles is not significant, t(455.34) = 1.06, (p= 0.29).*
 
 ## *Time Experiencing Homelessness*
 
-*Imputed based on ‘About how long have you been homeless’ \[UWRDS-PSD\]
-and ‘17. How long have you been homeless this time?’ \[UWRDS-PSD\]*
+*Imputed based on ‘About how long have you been homeless’ [UWRDS-PSD]
+and ‘17. How long have you been homeless this time?’ [UWRDS-PSD]*
 
 <div class="col2">
 <table class="table table-striped" style="color: black; margin-left: auto; margin-right: auto;">
@@ -8884,7 +8884,7 @@ Above one year
 69.46%
 </td>
 <td style="text-align:left;">
-\[53.67%, 85.3%\]
+[53.67%, 85.3%]
 </td>
 </tr>
 <tr>
@@ -8935,7 +8935,7 @@ Less than a month
 8.49%
 </td>
 <td style="text-align:left;">
-\[3.90%, 13.1%\]
+[3.90%, 13.1%]
 </td>
 </tr>
 <tr>
@@ -8952,7 +8952,7 @@ More than a month but Less than a year
 22.05%
 </td>
 <td style="text-align:left;">
-\[6.09%, 38.0%\]
+[6.09%, 38.0%]
 </td>
 </tr>
 <tr>
@@ -9012,7 +9012,7 @@ Total
             69.58%
             </td>
             <td style="text-align:left;">
-            \[63.25%, 75.9%\]
+            [63.25%, 75.9%]
             </td>
             </tr>
             <tr>
@@ -9029,7 +9029,7 @@ Total
             1.98%
             </td>
             <td style="text-align:left;">
-            \[-0.36%, 4.3%\]
+            [-0.36%, 4.3%]
             </td>
             </tr>
             <tr>
@@ -9046,7 +9046,7 @@ Total
             0.85%
             </td>
             <td style="text-align:left;">
-            \[0.21%, 1.5%\]
+            [0.21%, 1.5%]
             </td>
             </tr>
             <tr>
@@ -9063,7 +9063,7 @@ Total
             5.62%
             </td>
             <td style="text-align:left;">
-            \[1.90%, 9.3%\]
+            [1.90%, 9.3%]
             </td>
             </tr>
             <tr>
@@ -9080,7 +9080,7 @@ Total
             21.97%
             </td>
             <td style="text-align:left;">
-            \[16.39%, 27.6%\]
+            [16.39%, 27.6%]
             </td>
             </tr>
             <tr>
@@ -9163,7 +9163,7 @@ Not Living in Vehicles
 771.83
 </td>
 <td style="text-align:left;">
-\[709.03, 834.63\]
+[709.03, 834.63]
 </td>
 </tr>
 <tr>
@@ -9186,7 +9186,7 @@ Living in Vehicles
 852.26
 </td>
 <td style="text-align:left;">
-\[732.49, 972.03\]
+[732.49, 972.03]
 </td>
 </tr>
 </tbody>
@@ -9242,7 +9242,7 @@ RDS II 95% CI
 61.15%
 </td>
 <td style="text-align:left;">
-\[42.90%, 79.41%\]
+[42.90%, 79.41%]
 </td>
 </tr>
 <tr>
@@ -9259,7 +9259,7 @@ RDS II 95% CI
 16.62%
 </td>
 <td style="text-align:left;">
-\[-0.08%, 33.32%\]
+[-0.08%, 33.32%]
 </td>
 </tr>
 <tr>
@@ -9276,7 +9276,7 @@ RDS II 95% CI
 13.14%
 </td>
 <td style="text-align:left;">
-\[0.27%, 26.00%\]
+[0.27%, 26.00%]
 </td>
 </tr>
 <tr>
@@ -9293,7 +9293,7 @@ RDS II 95% CI
 8.08%
 </td>
 <td style="text-align:left;">
-\[0.97%, 15.18%\]
+[0.97%, 15.18%]
 </td>
 </tr>
 <tr>
@@ -9327,7 +9327,7 @@ Do not know
 1.02%
 </td>
 <td style="text-align:left;">
-\[-0.87%, 2.91%\]
+[-0.87%, 2.91%]
 </td>
 </tr>
 <tr>
@@ -9387,7 +9387,7 @@ Total
             66.40%
             </td>
             <td style="text-align:left;">
-            \[59.57%, 73.23%\]
+            [59.57%, 73.23%]
             </td>
             </tr>
             <tr>
@@ -9404,7 +9404,7 @@ Total
             14.08%
             </td>
             <td style="text-align:left;">
-            \[8.28%, 19.88%\]
+            [8.28%, 19.88%]
             </td>
             </tr>
             <tr>
@@ -9421,7 +9421,7 @@ Total
             5.14%
             </td>
             <td style="text-align:left;">
-            \[3.28%, 7.01%\]
+            [3.28%, 7.01%]
             </td>
             </tr>
             <tr>
@@ -9438,7 +9438,7 @@ Total
             9.65%
             </td>
             <td style="text-align:left;">
-            \[5.59%, 13.71%\]
+            [5.59%, 13.71%]
             </td>
             </tr>
             <tr>
@@ -9455,7 +9455,7 @@ Total
             2.23%
             </td>
             <td style="text-align:left;">
-            \[0.20%, 4.25%\]
+            [0.20%, 4.25%]
             </td>
             </tr>
             <tr>
@@ -9472,7 +9472,7 @@ Total
             2.50%
             </td>
             <td style="text-align:left;">
-            \[-0.11%, 5.11%\]
+            [-0.11%, 5.11%]
             </td>
             </tr>
             <tr>
@@ -9546,7 +9546,7 @@ No
 39.0%
 </td>
 <td style="text-align:left;">
-\[19.72%, 58.25%\]
+[19.72%, 58.25%]
 </td>
 </tr>
 <tr>
@@ -9563,7 +9563,7 @@ Yes
 61.0%
 </td>
 <td style="text-align:left;">
-\[41.75%, 80.28%\]
+[41.75%, 80.28%]
 </td>
 </tr>
 <tr>
@@ -9623,7 +9623,7 @@ Total
             48.3%
             </td>
             <td style="text-align:left;">
-            \[41.02%, 55.61%\]
+            [41.02%, 55.61%]
             </td>
             </tr>
             <tr>
@@ -9640,7 +9640,7 @@ Total
             51.7%
             </td>
             <td style="text-align:left;">
-            \[44.39%, 58.98%\]
+            [44.39%, 58.98%]
             </td>
             </tr>
             <tr>
@@ -9726,7 +9726,7 @@ Not Living in Vehicles
 89.7
 </td>
 <td style="text-align:left;">
-\[-30.01, 209.4\]
+[-30.01, 209.4]
 </td>
 </tr>
 <tr>
@@ -9749,7 +9749,7 @@ Living in Vehicles
 39.5
 </td>
 <td style="text-align:left;">
-\[27.88, 51.12\]
+[27.88, 51.12]
 </td>
 </tr>
 </tbody>
@@ -9811,7 +9811,7 @@ Not Living in Vehicles
 1.79
 </td>
 <td style="text-align:left;">
-\[1.51, 2.07\]
+[1.51, 2.07]
 </td>
 </tr>
 <tr>
@@ -9834,7 +9834,7 @@ Living in Vehicles
 2.22
 </td>
 <td style="text-align:left;">
-\[1.48, 2.96\]
+[1.48, 2.96]
 </td>
 </tr>
 </tbody>
@@ -9897,7 +9897,7 @@ Not Living in Vehicles
 0.60
 </td>
 <td style="text-align:left;">
-\[0.48, 0.72\]
+[0.48, 0.72]
 </td>
 </tr>
 <tr>
@@ -9920,7 +9920,7 @@ Living in Vehicles
 0.56
 </td>
 <td style="text-align:left;">
-\[0.31, 0.81\]
+[0.31, 0.81]
 </td>
 </tr>
 </tbody>
@@ -9983,7 +9983,7 @@ Not Living in Vehicles
 2.88
 </td>
 <td style="text-align:left;">
-\[2.79, 2.97\]
+[2.79, 2.97]
 </td>
 </tr>
 <tr>
@@ -10006,7 +10006,7 @@ Living in Vehicles
 2.80
 </td>
 <td style="text-align:left;">
-\[2.52, 3.08\]
+[2.52, 3.08]
 </td>
 </tr>
 </tbody>
@@ -10064,7 +10064,7 @@ No or Chose Not to Answer
 97.7%
 </td>
 <td style="text-align:left;">
-\[96.27%, 99.10%\]
+[96.27%, 99.10%]
 </td>
 </tr>
 <tr>
@@ -10081,7 +10081,7 @@ Yes
 2.3%
 </td>
 <td style="text-align:left;">
-\[0.90%, 3.73%\]
+[0.90%, 3.73%]
 </td>
 </tr>
 <tr>
@@ -10141,7 +10141,7 @@ Total
             96.7%
             </td>
             <td style="text-align:left;">
-            \[94.95%, 98.38%\]
+            [94.95%, 98.38%]
             </td>
             </tr>
             <tr>
@@ -10158,7 +10158,7 @@ Total
             3.3%
             </td>
             <td style="text-align:left;">
-            \[1.62%, 5.05%\]
+            [1.62%, 5.05%]
             </td>
             </tr>
             <tr>
@@ -10234,7 +10234,7 @@ No or Chose Not to Answer
 93.3%
 </td>
 <td style="text-align:left;">
-\[88.64%, 97.94%\]
+[88.64%, 97.94%]
 </td>
 </tr>
 <tr>
@@ -10251,7 +10251,7 @@ Yes
 6.7%
 </td>
 <td style="text-align:left;">
-\[2.06%, 11.36%\]
+[2.06%, 11.36%]
 </td>
 </tr>
 <tr>
@@ -10311,7 +10311,7 @@ Total
             92.1%
             </td>
             <td style="text-align:left;">
-            \[88.85%, 95.29%\]
+            [88.85%, 95.29%]
             </td>
             </tr>
             <tr>
@@ -10328,7 +10328,7 @@ Total
             7.9%
             </td>
             <td style="text-align:left;">
-            \[4.71%, 11.15%\]
+            [4.71%, 11.15%]
             </td>
             </tr>
             <tr>
@@ -10405,7 +10405,7 @@ No or Chose Not to Answer
 96.10%
 </td>
 <td style="text-align:left;">
-\[91.5%, 100.7%\]
+[91.5%, 100.7%]
 </td>
 </tr>
 <tr>
@@ -10422,7 +10422,7 @@ Yes
 3.90%
 </td>
 <td style="text-align:left;">
-\[-0.7%, 8.5%\]
+[-0.7%, 8.5%]
 </td>
 </tr>
 <tr>
@@ -10482,7 +10482,7 @@ Total
             97.09%
             </td>
             <td style="text-align:left;">
-            \[96.0%, 98.2%\]
+            [96.0%, 98.2%]
             </td>
             </tr>
             <tr>
@@ -10499,7 +10499,7 @@ Total
             2.91%
             </td>
             <td style="text-align:left;">
-            \[1.8%, 4.0%\]
+            [1.8%, 4.0%]
             </td>
             </tr>
             <tr>
@@ -10577,7 +10577,7 @@ No or Chose Not to Answer
 78.1%
 </td>
 <td style="text-align:left;">
-\[63.9%, 92.4%\]
+[63.9%, 92.4%]
 </td>
 </tr>
 <tr>
@@ -10594,7 +10594,7 @@ Yes
 21.9%
 </td>
 <td style="text-align:left;">
-\[7.6%, 36.1%\]
+[7.6%, 36.1%]
 </td>
 </tr>
 <tr>
@@ -10654,7 +10654,7 @@ Total
             83.4%
             </td>
             <td style="text-align:left;">
-            \[78.8%, 88.0%\]
+            [78.8%, 88.0%]
             </td>
             </tr>
             <tr>
@@ -10671,7 +10671,7 @@ Total
             16.6%
             </td>
             <td style="text-align:left;">
-            \[12.0%, 21.2%\]
+            [12.0%, 21.2%]
             </td>
             </tr>
             <tr>
@@ -10748,7 +10748,7 @@ No or Chose Not to Answer
 43.5%
 </td>
 <td style="text-align:left;">
-\[25.9%, 61.0%\]
+[25.9%, 61.0%]
 </td>
 </tr>
 <tr>
@@ -10765,7 +10765,7 @@ Yes
 56.5%
 </td>
 <td style="text-align:left;">
-\[39.0%, 74.1%\]
+[39.0%, 74.1%]
 </td>
 </tr>
 <tr>
@@ -10825,7 +10825,7 @@ Total
             52.2%
             </td>
             <td style="text-align:left;">
-            \[45.0%, 59.4%\]
+            [45.0%, 59.4%]
             </td>
             </tr>
             <tr>
@@ -10842,7 +10842,7 @@ Total
             47.8%
             </td>
             <td style="text-align:left;">
-            \[40.6%, 55.0%\]
+            [40.6%, 55.0%]
             </td>
             </tr>
             <tr>
@@ -10918,7 +10918,7 @@ No or Chose Not to Answer
 87.82%
 </td>
 <td style="text-align:left;">
-\[81.2%, 94.4%\]
+[81.2%, 94.4%]
 </td>
 </tr>
 <tr>
@@ -10935,7 +10935,7 @@ Yes
 12.18%
 </td>
 <td style="text-align:left;">
-\[5.6%, 18.8%\]
+[5.6%, 18.8%]
 </td>
 </tr>
 <tr>
@@ -10995,7 +10995,7 @@ Total
             87.13%
             </td>
             <td style="text-align:left;">
-            \[83.2%, 91.0%\]
+            [83.2%, 91.0%]
             </td>
             </tr>
             <tr>
@@ -11012,7 +11012,7 @@ Total
             12.87%
             </td>
             <td style="text-align:left;">
-            \[9.0%, 16.8%\]
+            [9.0%, 16.8%]
             </td>
             </tr>
             <tr>
@@ -11089,7 +11089,7 @@ No or Chose Not to Answer
 99.24%
 </td>
 <td style="text-align:left;">
-\[98.81%, 99.67%\]
+[98.81%, 99.67%]
 </td>
 </tr>
 <tr>
@@ -11106,7 +11106,7 @@ Yes
 0.76%
 </td>
 <td style="text-align:left;">
-\[0.33%, 1.19%\]
+[0.33%, 1.19%]
 </td>
 </tr>
 <tr>
@@ -11166,7 +11166,7 @@ Total
             98.27%
             </td>
             <td style="text-align:left;">
-            \[96.87%, 99.68%\]
+            [96.87%, 99.68%]
             </td>
             </tr>
             <tr>
@@ -11183,7 +11183,7 @@ Total
             1.73%
             </td>
             <td style="text-align:left;">
-            \[0.32%, 3.13%\]
+            [0.32%, 3.13%]
             </td>
             </tr>
             <tr>
@@ -11259,7 +11259,7 @@ No or Chose Not to Answer
 41.43%
 </td>
 <td style="text-align:left;">
-\[24.59%, 58.27%\]
+[24.59%, 58.27%]
 </td>
 </tr>
 <tr>
@@ -11276,7 +11276,7 @@ Yes
 58.57%
 </td>
 <td style="text-align:left;">
-\[41.73%, 75.41%\]
+[41.73%, 75.41%]
 </td>
 </tr>
 <tr>
@@ -11336,7 +11336,7 @@ Total
             49.61%
             </td>
             <td style="text-align:left;">
-            \[42.43%, 56.80%\]
+            [42.43%, 56.80%]
             </td>
             </tr>
             <tr>
@@ -11353,7 +11353,7 @@ Total
             50.39%
             </td>
             <td style="text-align:left;">
-            \[43.20%, 57.57%\]
+            [43.20%, 57.57%]
             </td>
             </tr>
             <tr>
