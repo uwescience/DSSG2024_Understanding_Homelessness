@@ -5,19 +5,24 @@ title: General Codebook
 
 <style>
   .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
+    columns: 2 200px;         /* number of columns and width in pixels */
     -webkit-columns: 2 200px; /* chrome, safari */
     -moz-columns: 2 200px;    /* firefox */
+    text-align: justify;      /* justify alignment */
   }
 </style>
 
-# Overview
+<div class="col2">
+  <h1>Overview</h1>
+
+<p>
 
 This codebook summarizes the findings and data from the University of
 Washington (UW) 2023 Seattle area homeless count project. The count was
 led by Zack W. Almquist (*Lead - PI*), Paul Hebert (*Co-PI*), Nathalie
 Williams (*Puget Sound Data Oversample PI*), Amy Hagopian (*Co-PI*),
 June (Junhe) Yang (*Data Scientist Lead DSSG PhD*).
+</p>
 
 The data were collected using two different surveys, referred to as
 **UWRDS** and **UWRDS-PSD** in the codebook. Data from both surveys were
@@ -30,6 +35,7 @@ Social Good (DSSG) summer fellows, in alphabetical order:
 - Brooke Kaye,  
 - Jess Robinson, and  
 - Rebecca Schachtman,  
+
 with the support of Data Scientist, June (Junhe) Yang, and Project Lead,
 Zack Almquist.
 
