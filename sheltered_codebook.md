@@ -1145,7 +1145,7 @@ significant, *χ*<sup>2</sup> = 26.97, (p = 0.202). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/race%20mr%20black_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/race_mr_black_graph-1.png)
 
 ### *Race - Multiracial (Indigenous)*
 
@@ -1485,7 +1485,7 @@ significant, *χ*<sup>2</sup> = 27.12, (p = 0.175). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/race%20mr%20indig_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/race_mr_indig_graph-1.png)
 
 ### *Race - Multiracial (Native Hawaiian or Pacific Islander)*
 
@@ -1825,7 +1825,7 @@ significant, *χ*<sup>2</sup> = 27.6, (p = 0.206). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/race%20mr%20pi_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/race_mr_pi_graph-1.png)
 
 ## *Ethnicity*
 
@@ -2337,7 +2337,7 @@ significant, *χ*<sup>2</sup> = 8.43, (p = 0.356). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/cat%20age_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/cat_age_graph-1.png)
 
 ### *Age (Continuous)*
 
@@ -2422,7 +2422,7 @@ Sheltered
 *The difference between individual sheltered and unsheltered is not
 significant, t(418.72) = 0.77, (p= 0.444).*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/cont%20age_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/cont_age_graph-1.png)
 
 ## *Birthplace*
 
@@ -5278,7 +5278,7 @@ Total
 significant, *χ*<sup>2</sup> = 85.51, (p = 0.934). These results were
 calculated based on the mean of 1000 bootstrapped tests. *
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/birth%20country-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/birth_country-1.png)
 
 ## *Years Lived in King County*
 
@@ -5604,7 +5604,7 @@ significant, *χ*<sup>2</sup> = 8.85, (p = 0.146). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/health%20status_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/health_status_graph-1.png)
 
 ## *Disability*
 
@@ -5841,7 +5841,7 @@ significant, *χ*<sup>2</sup> = 2.31, (p = 0.87). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/disability%20status_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/disability_status_graph-1.png)
 
 ## *Mental Illness*
 
@@ -6078,7 +6078,7 @@ significant, *χ*<sup>2</sup> = 5.18, (p = 0.577). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/mental%20illness_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/mental_illness_graph-1.png)
 
 ## *Substance Use*
 
@@ -6576,7 +6576,7 @@ Sheltered
 *The difference between individual sheltered and unsheltered is not
 significant, t(75.99) = 0.65, (p= 0.519).*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/evit%20age_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/evit_age_graph-1.png)
 
 ## *If Evicted, Ever Formally Evicted*
 
@@ -6745,7 +6745,7 @@ significant at the .05 level, *χ*<sup>2</sup> = 11.91, (p = 0.013).
 These results were calculated based on the mean of 1000 bootstrapped
 tests. This value was calculated with replacement.*
 
-![](assets/sheltered_codebook_files/figure-markdown_strict/formal%20eviction_graph-1.png)
+![](assets/sheltered_codebook_files/figure-markdown_strict/formal_eviction_graph-1.png)
 
 # Sleep Status
 

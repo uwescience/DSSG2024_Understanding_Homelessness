@@ -542,7 +542,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/race%20mr%20black_graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/race_mr_black_graph-1.png)
 
 ### *Race - Multiracial (Indigenous)*
 
@@ -710,7 +710,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/race%20mr%20indig_graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/race_mr_indig_graph-1.png)
 
 ### *Race - Multiracial (Native Hawaiian or Pacific Islander)*
 
@@ -878,7 +878,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/race%20mr%20pi_graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/race_mr_pi_graph-1.png)
 
 ## *Ethnicity*
 
@@ -1131,7 +1131,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/cat%20age_graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/cat_age_graph-1.png)
 
 ### *Age (Continuous)*
 
@@ -3108,7 +3108,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/mental%20illness_graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/mental_illness_graph-1.png)
 
 ## *Substance Use*
 
@@ -3452,7 +3452,7 @@ Total
     </tbody>
     </table>
 
-![](assets/general_codebook_files/figure-markdown_strict/formal%20eviction_graph-1.png)
+![](assets/general_codebook_files/figure-markdown_strict/formal_eviction_graph-1.png)
 
 # Sleep Status
 

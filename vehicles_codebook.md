@@ -1145,7 +1145,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 7.98, (p = 0.965). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/race%20mr%20black_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/race_mr_black_graph-1.png)
 
 ### *Race - Multiracial (Indigenous)*
 
@@ -1485,7 +1485,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 9.47, (p = 0.927). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/race%20mr%20indig_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/race_mr_indig_graph-1.png)
 
 ### *Race - Multiracial (Native Hawaiian or Pacific Islander)*
 
@@ -1825,7 +1825,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 9.54, (p = 0.874). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/race%20mr%20pi_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/race_mr_pi_graph-1.png)
 
 ## *Ethnicity*
 
@@ -2336,7 +2336,7 @@ Total
 vehicles is not significant, *χ*<sup>2</sup> = 7.95, (p = 0.758). These
 results were calculated based on the mean of 1000 bootstrapped tests. *
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/cat%20age_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/cat_age_graph-1.png)
 
 ### *Age (Continuous)*
 
@@ -2421,7 +2421,7 @@ Living in Vehicles
 *The difference between individual living in vehicles and not living in
 vehicles is not significant, t(592.36) = 0.64, (p= 0.525).*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/cont%20age_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/cont_age_graph-1.png)
 
 ## *Birthplace*
 
@@ -5448,7 +5448,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 101.79, (p = 0.997).
 These results were calculated based on the mean of 1000 bootstrapped
 tests. *
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/birth%20country-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/birth_country-1.png)
 
 ## *Years Lived in King County*
 
@@ -5774,7 +5774,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 1.95, (p = 0.744). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/health%20status_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/health_status_graph-1.png)
 
 ## *Disability*
 
@@ -6011,7 +6011,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 3.61, (p = 0.883). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/disability%20status_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/disability_status_graph-1.png)
 
 ## *Mental Illness*
 
@@ -6248,7 +6248,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 1.1, (p = 0.899). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/mental%20illness_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/mental_illness_graph-1.png)
 
 ## *Substance Use*
 
@@ -6746,7 +6746,7 @@ Living in Vehicles
 *The difference between individual living in vehicles and not living in
 vehicles is not significant, t(151.85) = 0.54, (p= 0.588).*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/evit%20age_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/evit_age_graph-1.png)
 
 ## *If Evicted, Ever Formally Evicted*
 
@@ -6915,7 +6915,7 @@ vehicles is not significant, *χ*<sup>2</sup> = 0.59, (p = 0.571). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](assets/vehicles_codebook_files/figure-markdown_strict/formal%20eviction_graph-1.png)
+![](assets/vehicles_codebook_files/figure-markdown_strict/formal_eviction_graph-1.png)
 
 # Sleep Status
 

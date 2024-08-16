@@ -1,3 +1,4 @@
+
 <style>
   .col2 {
       column-gap: 1000px;         /* Increase the gap between columns */
