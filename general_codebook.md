@@ -19,7 +19,7 @@ The data were collected using two different surveys, referred to as
 harmonized for this codebook. We note where question phrasing differed
 across surveys and when a variable was collected in only one survey.
 
-An HTML version of this anaylsis may be downloaded [here](assets/technical_codebooks/general_codebook_html.html). 
+An HTML version of this anaylsis may be downloaded [here](assets/general_codebook_html.html). 
 
 This codebook and corresponding links were compiled by Data Science for
 Social Good (DSSG) summer fellows, in alphabetical order:  
