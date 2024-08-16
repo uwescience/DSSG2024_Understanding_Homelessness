@@ -3,7 +3,8 @@ layout: page
 title: Respondent-Driven Sampling (RDS)
 ---
 
-Respondent Driven Sampling (RDS) is a method both for data collection and for statistical inference. The unit of analysis in RDS is a network structure rather than an individual, and the analysis generalizes to the networks of the sampled population. Unlike traditional sampling methods, this method of analysis influences the kind of estimators we use, the way we understand the variance around the estimates, and how we interpret the findings. RDS combines "snowball sampling" with a mathematical model that weighs the sample to compensate for the fact that the sample was collected in a non-random way. It employs multiple waves of peer-to-peer recruitment to approximate random sampling within “hard-to-reach” socially networked populations.
+Respondent Driven Sampling (RDS) is a method both for data collection and statistical inference. The unit of analysis in RDS is a network structure rather than an individual, and the analysis generalizes to the networks of the sampled population. Unlike traditional sampling methods, this method of analysis influences the kind of estimators we use, the way we understand the variance around the estimates, and how we interpret the findings. Respondent-driven sampling (RDS) combined survey and statistical method for providing a quasi-probability sample for hard to reach populations such as people experiencing homelessness.  The statistical model compensates for the fact that the sample was collected through peer referral rather than a traditional random sampling approach such as an addressed based sample. This method relies on multiple waves of peer-to-peer recruitment to approximate random sampling within “hard-to-reach” (see Figure 1). As a type of chain referral sampling, RDS is particularly useful when traditional probability sampling methods are not feasible (e.g., when a sampling frame does not exist). It integrates social network theory to reduce known biases such as oversampling people with large personal networks in the target population. RDS population estimates generalize to the  target population (e.g., the population of people living unsheltered in King County). 
+
 
 ### RDS Assumptions
 
@@ -20,7 +21,7 @@ Current estimators for RDS analysis are primarily developed to describe proporti
 
 This method is based on inclusion probabilities for members of the sample and reported network sizes to adjust estimates. It allows for weights to be applied to the entire sample rather than to each variable separately. The approach models the sampling process as a first-order Markov random walk through the network of the target population, providing robust estimates by accounting for the complex social structures inherent in Respondent-Driven Sampling (RDS). This method approximates the population proportion by weighting it based on a repeated-sampling model for RDS, assuming that the inclusion probability is proportional to the degree of each respondent.
 
-##### RDS-II Assumptions
+##### RDS Assumptions
 
 ###### 1. Sampling Assumptions
 - The seeds are chosen with probability proportional to their network degree.
