@@ -1,9 +1,9 @@
 <style>
   .col2 {
-      column-gap: 100px;         /* Increase the gap between columns */
-    columns: 2 50px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 50px; /* chrome, safari */
-    -moz-columns: 2 50px;    /* firefox */
+      column-gap: 1000px;         /* Increase the gap between columns */
+    columns: 2 5px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 5px; /* chrome, safari */
+    -moz-columns: 2 5px;    /* firefox */
   }
 </style>
 
