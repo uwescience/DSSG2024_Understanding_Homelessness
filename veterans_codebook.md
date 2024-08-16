@@ -117,8 +117,7 @@ Total
     </tbody>
     </table>
     
-#test 
-
+    
 ![](assets/veterans_codebook_files/figure-markdown_strict/summary-1.png)
 
 The proportion of the population experiencing homeless who are Veterans
