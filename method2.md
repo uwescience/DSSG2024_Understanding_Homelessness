@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Method 2
+title: Respondent-Driven Sampling (RDS)
 ---
-
-# Respondent-Driven Sampling (RDS)
 
 Respondent Driven Sampling (RDS) is a method both for data collection and for statistical inference. The unit of analysis in RDS is a network structure rather than an individual, and the analysis generalizes to the networks of the sampled population. Unlike traditional sampling methods, this method of analysis influences the kind of estimators we use, the way we understand the variance around the estimates, and how we interpret the findings. RDS combines "snowball sampling" with a mathematical model that weighs the sample to compensate for the fact that the sample was collected in a non-random way. It employs multiple waves of peer-to-peer recruitment to approximate random sampling within “hard-to-reach” socially networked populations.
 
