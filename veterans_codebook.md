@@ -112,7 +112,7 @@ Total
     </tr>
     </tbody>
     </table>
-    ![](veterans_codebook_files/figure-markdown_strict/summary-1.png)
+    ![](assets/veterans_codebook_files/figure-markdown_strict/summary-1.png)
 
 The proportion of the population experiencing homeless who are Veterans
 is 11%. The proportion of the population experiencing homeless who are
@@ -425,7 +425,7 @@ Total
 significant, *χ*<sup>2</sup> = 40.52, (p = 0.277). These results were
 calculated based on the mean of 1000 bootstrapped tests. *
 
-![](veterans_codebook_files/figure-markdown_strict/gender_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/gender_graph-1.png)
 
 ## *Race*
 
@@ -801,7 +801,7 @@ significant, *χ*<sup>2</sup> = 10.5, (p = 0.93). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/race_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/race_graph-1.png)
 
 ### *Race - Multiracial (Black)*
 
@@ -1141,7 +1141,7 @@ significant, *χ*<sup>2</sup> = 7.78, (p = 0.973). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/race_mr_black_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/race_mr_black_graph-1.png)
 
 ### *Race - Multiracial (Indigenous)*
 
@@ -1481,7 +1481,7 @@ significant, *χ*<sup>2</sup> = 7.74, (p = 0.957). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/race_mr_indig_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/race_mr_indig_graph-1.png)
 
 ### *Race - Multiracial (Native Hawaiian or Pacific Islander)*
 
@@ -1821,7 +1821,7 @@ significant, *χ*<sup>2</sup> = 5.3, (p = 0.955). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/race_mr_pi_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/race_mr_pi_graph-1.png)
 
 ## *Ethnicity*
 
@@ -2024,7 +2024,7 @@ significant, *χ*<sup>2</sup> = 28.65, (p = 0.255). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ethnicity_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ethnicity_graph-1.png)
 
 ## *Age*
 
@@ -2333,7 +2333,7 @@ significant at the .05 level, *χ*<sup>2</sup> = 51.43, (p = 0.039).
 These results were calculated based on the mean of 1000 bootstrapped
 tests. *
 
-![](veterans_codebook_files/figure-markdown_strict/cat_age_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/cat_age_graph-1.png)
 
 ### *Age (Continuous)*
 
@@ -2418,7 +2418,7 @@ Veterans
 *The difference between individual veterans and non-veterans is
 significant at the .05 level, t(435.22) = 3.01, (p= 0.003).*
 
-![](veterans_codebook_files/figure-markdown_strict/cont_age_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/cont_age_graph-1.png)
 
 ## *Birthplace*
 
@@ -4119,7 +4119,7 @@ Total
 significant, *χ*<sup>2</sup> = 156.42, (p = 0.996). These results were
 calculated based on the mean of 1000 bootstrapped tests. *
 
-![](veterans_codebook_files/figure-markdown_strict/birthstate_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/birthstate_graph-1.png)
 
 ### *Birth Country*
 
@@ -5410,7 +5410,7 @@ Total
 significant, *χ*<sup>2</sup> = 24.25, (p = 1). These results were
 calculated based on the mean of 1000 bootstrapped tests. *
 
-![](veterans_codebook_files/figure-markdown_strict/birth_country-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/birth_country-1.png)
 
 ## *Years Lived in King County*
 
@@ -5496,7 +5496,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(371.42) = -1.63, (p= 0.105).*
 
-![](veterans_codebook_files/figure-markdown_strict/tenure_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/tenure_graph-1.png)
 
 # Health
 
@@ -5736,7 +5736,7 @@ significant, *χ*<sup>2</sup> = 13.64, (p = 0.452). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/health_status_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/health_status_graph-1.png)
 
 ## *Disability*
 
@@ -5973,7 +5973,7 @@ significant, *χ*<sup>2</sup> = 5.19, (p = 0.764). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/disability_status_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/disability_status_graph-1.png)
 
 ## *Mental Illness*
 
@@ -6210,7 +6210,7 @@ significant, *χ*<sup>2</sup> = 8.8, (p = 0.159). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/mental_illness_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/mental_illness_graph-1.png)
 
 ## *Substance Use*
 
@@ -6447,7 +6447,7 @@ significant, *χ*<sup>2</sup> = 18.23, (p = 0.269). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/substance_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/substance_graph-1.png)
 
 # Eviction
 
@@ -6620,7 +6620,7 @@ significant, *χ*<sup>2</sup> = 0.65, (p = 0.622). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/eviction_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/eviction_graph-1.png)
 
 ## *Age at Eviction*
 
@@ -6708,7 +6708,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(86.45) = 1.37, (p= 0.173).*
 
-![](veterans_codebook_files/figure-markdown_strict/evit_age_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/evit_age_graph-1.png)
 
 ## *If Evicted, Ever Formally Evicted*
 
@@ -6877,7 +6877,7 @@ significant, *χ*<sup>2</sup> = 0.34, (p = 0.54). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/formal_eviction_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/formal_eviction_graph-1.png)
 
 # Sleep Status
 
@@ -7287,7 +7287,7 @@ Total
 significant, *χ*<sup>2</sup> = 13.89, (p = 0.767). These results were
 calculated based on the mean of 1000 bootstrapped tests. *
 
-![](veterans_codebook_files/figure-markdown_strict/ego_sleep_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_sleep_graph-1.png)
 
 ### *Re-coded: Where did you sleep last night?*
 
@@ -8103,7 +8103,7 @@ Total
 significant, *χ*<sup>2</sup> = 39.58, (p = 0.892). These results were
 calculated based on the mean of 1000 bootstrapped tests. *
 
-![](veterans_codebook_files/figure-markdown_strict/ego_sleep_imp_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_sleep_imp_graph-1.png)
 
 ## *Sheltered vs. Unsheltered*
 
@@ -8272,7 +8272,7 @@ significant, *χ*<sup>2</sup> = 5.61, (p = 0.321). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_pre_sheltered_imp_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_pre_sheltered_imp_graph-1.png)
 
 ## *Would Accept Shelter*
 
@@ -8476,7 +8476,7 @@ significant, *χ*<sup>2</sup> = 5.55, (p = 0.099). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_accept_shelt_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_accept_shelt_graph-1.png)
 
 ## *If Accepting, Shelter Preference*
 
@@ -8714,7 +8714,7 @@ significant, *χ*<sup>2</sup> = 2.43, (p = 0.837). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/shelter_pref_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/shelter_pref_graph-1.png)
 
 # Experience of Homelessness
 
@@ -8802,7 +8802,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(375.24) = -1.29, (p= 0.198).*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_first_homeless_year_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_first_homeless_year_graph-1.png)
 
 ## *Time Experiencing Homelessness*
 
@@ -9073,7 +9073,7 @@ significant, *χ*<sup>2</sup> = 5.68, (p = 0.786). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/recode_ego_homeless_duration_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/recode_ego_homeless_duration_graph-1.png)
 
 ## *Days Homeless in Past Three Years*
 
@@ -9160,7 +9160,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(373.58) = -1.43, (p= 0.153).*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_homeless_totaldays_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_homeless_totaldays_graph-1.png)
 
 ## *Number of Times Homeless in Past Three Years*
 
@@ -9466,7 +9466,7 @@ significant, *χ*<sup>2</sup> = 5.94, (p = 0.824). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_homeless_count_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_homeless_count_graph-1.png)
 
 ## *Experiencing Chronic Homelessness*
 
@@ -9634,7 +9634,7 @@ significant, *χ*<sup>2</sup> = 5.3, (p = 0.173). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_homeless_chron_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_homeless_chron_graph-1.png)
 
 # Connections
 
@@ -9723,7 +9723,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(62.13) = -0.55, (p= 0.584).*
 
-![](veterans_codebook_files/figure-markdown_strict/alter_n_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/alter_n_graph-1.png)
 
 ## *Number of Named Homeless People Known*
 
@@ -9808,7 +9808,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(438.91) = -0.55, (p= 0.583).*
 
-![](veterans_codebook_files/figure-markdown_strict/alter_name_n_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/alter_name_n_graph-1.png)
 
 ## *Number of Household Members*
 
@@ -9894,7 +9894,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(371.72) = -1.59, (p= 0.112).*
 
-![](veterans_codebook_files/figure-markdown_strict/household_n_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/household_n_graph-1.png)
 
 ## *Number of Coupons Distributed*
 
@@ -9980,7 +9980,7 @@ Veterans
 *The difference between individual veterans and non-veterans is not
 significant, t(409.1) = 1.01, (p= 0.315).*
 
-![](veterans_codebook_files/figure-markdown_strict/total_child_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/total_child_graph-1.png)
 
 # Benefits
 
@@ -10152,7 +10152,7 @@ significant at the .05 level, *χ*<sup>2</sup> = 168.07, (p = 0). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_va_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_va_graph-1.png)
 
 ## *Disability Benefits*
 
@@ -10322,7 +10322,7 @@ significant, *χ*<sup>2</sup> = 0.48, (p = 0.533). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_disability_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_disability_graph-1.png)
 
 ## *Housing Benefits*
 
@@ -10493,7 +10493,7 @@ significant, *χ*<sup>2</sup> = 1.91, (p = 0.27). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_housing_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_housing_graph-1.png)
 
 ## *SSI Benefits*
 
@@ -10665,7 +10665,7 @@ significant, *χ*<sup>2</sup> = 7.54, (p = 0.649). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_ssi_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_ssi_graph-1.png)
 
 ## *Medicaid Benefits*
 
@@ -10836,7 +10836,7 @@ significant, *χ*<sup>2</sup> = 7.85, (p = 0.209). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_medicaid_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_medicaid_graph-1.png)
 
 ## *Medicare Benefits*
 
@@ -11006,7 +11006,7 @@ significant at the .05 level, *χ*<sup>2</sup> = 6.86, (p = 0.016). These
 results were calculated based on the mean of 1000 bootstrapped tests.
 This value was calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_medicare_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_medicare_graph-1.png)
 
 ## *Indian Health Service Benefits*
 
@@ -11177,7 +11177,7 @@ significant, *χ*<sup>2</sup> = 1.53, (p = 0.247). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_ihs_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_ihs_graph-1.png)
 
 ## *Other Benefits*
 
@@ -11347,4 +11347,4 @@ significant, *χ*<sup>2</sup> = 9.04, (p = 0.109). These results were
 calculated based on the mean of 1000 bootstrapped tests. This value was
 calculated with replacement.*
 
-![](veterans_codebook_files/figure-markdown_strict/ego_ben_other_graph-1.png)
+![](assets/veterans_codebook_files/figure-markdown_strict/ego_ben_other_graph-1.png)
