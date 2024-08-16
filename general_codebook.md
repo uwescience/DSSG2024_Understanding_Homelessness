@@ -1,8 +1,3 @@
----
-layout: page
-title: General Codebook
----
-
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
@@ -13,9 +8,18 @@ title: General Codebook
 
 # Overview
 
-This codebook summarizes the findings and data from the University of Washington (UW) 2023 Seattle area homeless count project. The count was led by Zack W. Almquist (*Lead - PI*), Paul Hebert (*Co-PI*), Nathalie Williams (*Puget Sound Data Oversample PI*), Amy Hagopian (*Co-PI*), June (Junhe) Yang (*Data Scientist Lead DSSG PhD*).
+This codebook summarizes the findings and data from the University of
+Washington (UW) 2023 Seattle area homeless count project. The count was
+led by Zack W. Almquist (*Lead - PI*), Paul Hebert (*Co-PI*), Nathalie
+Williams (*Puget Sound Data Oversample PI*), Amy Hagopian (*Co-PI*),
+June (Junhe) Yang (*Data Scientist Lead DSSG PhD*).
 
-The data were collected using two different surveys, referred to as **UWRDS** and **UWRDS-PSD** in the codebook. Data from both surveys were harmonized for this codebook. We note where question phrasing differed across surveys and when a variable was collected in only one survey.
+The data were collected using two different surveys, referred to as
+**UWRDS** and **UWRDS-PSD** in the codebook. Data from both surveys were
+harmonized for this codebook. We note where question phrasing differed
+across surveys and when a variable was collected in only one survey.
+
+An HTML version of this anaylsis may be downloaded [here](assets/technical_codebooks/general_codebook_html.html). 
 
 This codebook and corresponding links were compiled by Data Science for
 Social Good (DSSG) summer fellows, in alphabetical order:  
@@ -23,7 +27,6 @@ Social Good (DSSG) summer fellows, in alphabetical order:
 - Brooke Kaye,  
 - Jess Robinson, and  
 - Rebecca Schachtman,  
-
 with the support of Data Scientist, June (Junhe) Yang, and Project Lead,
 Zack Almquist.
 
@@ -375,8 +378,9 @@ Total
 
 ### *Race - Multiracial Preference *
 
-*Imputed based on ‘ego\_race\_all’ classifying multiracial individuals
-as a single race, with preference to Black*
+*Imputed racial category that classifies multiracial individuals as one
+race with preference to Black based on ‘23. Which racial groups do you
+identify with?’*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -542,8 +546,9 @@ Total
 
 ### *Race - Multiracial (Indigenous)*
 
-*Imputed based on ‘ego\_race\_all’ classifying multiracial individuals
-as a single race, with preference to Indigenous*
+*Imputed racial category that classifies multiracial individuals as one
+race with preference to Indigenous based on ‘23. Which racial groups do
+you identify with?’*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -709,9 +714,9 @@ Total
 
 ### *Race - Multiracial (Native Hawaiian or Pacific Islander)*
 
-*Imputed based on ‘ego\_race\_all’ classifying multiracial individuals
-as a single race, with preference to Native Hawaiian or Pacific
-Islander*
+*Imputed racial category that classifies multiracial individuals as one
+race with preference to Native Hawaiian or Pacific Islander based on
+‘23. Which racial groups do you identify with?’*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -1189,8 +1194,8 @@ RDS II 95% CI
 
 ### *Birth State*
 
-*8. Birthplace: - State - In what city and state were you born? -
-Imputed. This variable is not included for UWRDS-PSD survey
+*‘8. Birthplace: - State - In what city and state were you born? -
+Imputed’ This variable is not included for UWRDS-PSD survey
 observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -2037,8 +2042,8 @@ Total
 
 ### *Birth Country*
 
-*8. Birthplace: - Country - In what city and state were you born? -
-Imputed. This variable is not included for UWRDS-PSD survey
+*‘8. Birthplace: - Country - In what city and state were you born? -
+Imputed’ This variable is not included for UWRDS-PSD survey
 observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -2698,7 +2703,7 @@ Total
 
 ## *Years Lived in King County *
 
-*9. How long have you lived in King County? - Imputed. This variable is
+*‘9. How long have you lived in King County? - Imputed’ This variable is
 not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -2759,7 +2764,8 @@ RDS II 95% CI
 ## *Health Status*
 
 *Imputed based on ‘D1. In general, would you say your health is’
-[UWRDS-PSD] and 16. How would you rate your health status?’ [UWRDS]*
+[UWRDS-PSD] and ‘16. How would you rate your health status?’
+[UWRDS]*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -2874,7 +2880,7 @@ Total
 
 ## *Disability*
 
-*21. Do you identify as having a disability?. This variable is not
+*‘21. Do you identify as having a disability?’ This variable is not
 included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -2990,7 +2996,7 @@ Total
 
 ## *Mental Illness*
 
-*20. Do you identify as having a serious mental illness?. This variable
+*‘20. Do you identify as having a serious mental illness?’ This variable
 is not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -3106,7 +3112,7 @@ Total
 
 ## *Substance Use*
 
-*22. Do you identify as having a substance use disorder?. This variable
+*‘22. Do you identify as having a substance use disorder?’ This variable
 is not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -3224,10 +3230,10 @@ Total
 
 ## *Ever Evicted*
 
-*Based on ‘15. Have you ever been evicted from a rental property?’
-[UWRDS] and ‘Now think about the last place you lived, before you
-moved to your current residence. Were you forcibly evicted from that
-last place you lived?’ [UWRDS-PSD]*
+*Imputed based on ‘15. Have you ever been evicted from a rental
+property?’ [UWRDS] and ‘Now think about the last place you lived,
+before you moved to your current residence. Were you forcibly evicted
+from that last place you lived?’ [UWRDS-PSD]*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -3308,8 +3314,9 @@ Total
 
 ## *Age at Eviction*
 
-*15.1 How old were you? (please enter a number, for example: 30)-
-Imputed. This variable is not included for UWRDS-PSD survey
+*Imputed based on ‘15.1 How old were you? (please enter a number, for
+example: 30) [if yes to ’15. Have you ever been evicted from a rental
+property?’]’ This variable is not included for UWRDS-PSD survey
 observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -3367,7 +3374,7 @@ RDS II 95% CI
 
 ## *If Evicted, Ever Formally Evicted*
 
-*15.2 Were you formally evicted by court order?. This variable is not
+*‘15.2 Were you formally evicted by court order?’ This variable is not
 included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -3453,8 +3460,8 @@ Total
 
 ### *Where did you sleep last night?*
 
-*Respondent sleep status based ‘A. Regular residence’ in UWRDS-PSD and
-‘7. Where did you sleep last night?’ UWRDS*
+*Respondent’s sleep location based on ‘A. Regular residence’ in
+[UWRDS-PSD] and ‘7. Where did you sleep last night?’ [UWRDS]*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -4141,8 +4148,8 @@ Total
 
 ## *Would Accept Shelter*
 
-*12. If you were offered a space in an emergency shelter this week,
-would you accept?. This variable is not included for UWRDS-PSD survey
+*‘12. If you were offered a space in an emergency shelter this week,
+would you accept?’ This variable is not included for UWRDS-PSD survey
 observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -4239,7 +4246,7 @@ Total
 
 ![](assets/general_codebook_files/figure-markdown_strict/ego_accept_shelt_graph-1.png)
 
-## \*If Accepting, Shelter Preference
+## *If Accepting, Shelter Preference*
 
 *Variable based on Which of the following would you prefer for an
 emergency shelter? - Imputed. This variable is not included for
@@ -4360,8 +4367,8 @@ Total
 
 ## *First Year Experiencing Homelessness*
 
-*10. What year was your first experience of homelessness?. This variable
-is not included for UWRDS-PSD survey observations.*
+*‘10. What year was your first experience of homelessness?’ This
+variable is not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -4419,7 +4426,7 @@ RDS II 95% CI
 ## *Time Experiencing Homelessness*
 
 *Imputed based on ‘About how long have you been homeless’ [UWRDS-PSD]
-and 17. How long have you been homeless this time?’ [UWRDS-PSD]*
+and ‘17. How long have you been homeless this time?’ [UWRDS-PSD]*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -4551,8 +4558,8 @@ Total
 
 ## *Days Homeless in Past Three Years*
 
-*If you added up all the times you have been homeless in the last 3
-years, about how long have you been homeless? - Imputed Total Days. This
+*‘If you added up all the times you have been homeless in the last 3
+years, about how long have you been homeless? - Imputed Total Days’ This
 variable is not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -4610,8 +4617,8 @@ RDS II 95% CI
 
 ## *Number of Times Homeless in Past Three Years*
 
-*18. Including this time, how many different times have you been
-homeless in the past 3 years, that is since April 2020?. This variable
+*‘18. Including this time, how many different times have you been
+homeless in the past 3 years, that is since April 2020?’ This variable
 is not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -4903,7 +4910,7 @@ RDS II 95% CI
 
 ## *Number of Named Homeless People Known*
 
-*Number of named non-household alters*
+*Number of named non-household contacts*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -4960,8 +4967,8 @@ RDS II 95% CI
 
 ## *Number of Household Members*
 
-*Imputed count of household alters based on ‘27. Please list the
-initials of all the people in your household’*
+*Imputed count of household members based on ‘27. Please list the
+initials of all the people in your household.’*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -5078,8 +5085,8 @@ RDS II 95% CI
 
 ## *Veteran Affairs Benefits*
 
-*13. Are you receiving any of the following benefits? (Select all that
-apply) - Selected Choice Veteran’s Administration (VA). This variable is
+*‘13. Are you receiving any of the following benefits? (Select all that
+apply) - Selected Choice Veteran’s Administration (VA)’ This variable is
 not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -5161,8 +5168,8 @@ Total
 
 ## *Disability Benefits*
 
-*13. Are you receiving any of the following benefits? (Select all that
-apply) - Selected Choice WA Aged, Blind, or Disabled cash assistance.
+*‘13. Are you receiving any of the following benefits? (Select all that
+apply) - Selected Choice WA Aged, Blind, or Disabled cash assistance’
 This variable is not included for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -5244,9 +5251,9 @@ Total
 
 ## *Housing Benefits*
 
-*13. Are you receiving any of the following benefits? (Select all that
-apply) - Selected Choice WA Housing and Essential Needs program -
-Imputed with text response. This variable is not included for UWRDS-PSD
+*‘13. Are you receiving any of the following benefits? (Select all that
+apply) - Selected Choice: ’WA Housing and Essential Needs program’ -
+Imputed with text response.’ This variable is not included for UWRDS-PSD
 survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -5328,11 +5335,11 @@ Total
 
 ## *SSI Benefits*
 
-*13. Are you receiving any of the following benefits? (Select all that
-apply) - Selected Choice Federal Supplemental Security Income (SSI),
+*‘13. Are you receiving any of the following benefits? (Select all that
+apply) - Selected Choice: ’Federal Supplemental Security Income (SSI),
 Social Security Disability Insurance (SSDI), or other social security
-benefit - Imputed with text response. This variable is not included for
-UWRDS-PSD survey observations.*
+benefit’ - Imputed with text response.’ This variable is not included
+for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -5413,10 +5420,10 @@ Total
 
 ## *Medicaid Benefits*
 
-*13. Are you receiving any of the following benefits? (Select all that
-apply) - Selected Choice Medicaid (in Washington state, this is Apple
-Health) - Imputed with text response. This variable is not included for
-UWRDS-PSD survey observations.*
+*‘13. Are you receiving any of the following benefits? (Select all that
+apply) - Selected Choice: ’Medicaid (in Washington state, this is Apple
+Health)’ - Imputed with text response.’ This variable is not included
+for UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
@@ -5497,8 +5504,8 @@ Total
 
 ## *Medicare Benefits*
 
-*13. Are you receiving any of the following benefits? (Select all that
-apply) - Selected Choice Medicare. This variable is not included for
+*‘13. Are you receiving any of the following benefits? (Select all that
+apply) - Selected Choice Medicare’ This variable is not included for
 UWRDS-PSD survey observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -5580,9 +5587,9 @@ Total
 
 ## *Indian Health Service Benefits*
 
-*13. Are you receiving any of the following benefits? (Select all that
-apply) - Selected Choice Indian Health Services - Imputed with text
-response. This variable is not included for UWRDS-PSD survey
+*‘13. Are you receiving any of the following benefits? (Select all that
+apply) - Selected Choice: ’Indian Health Services’ - Imputed with text
+response.’ This variable is not included for UWRDS-PSD survey
 observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
@@ -5664,8 +5671,9 @@ Total
 
 ## *Other Benefits*
 
-*13. Are you receiving any of the following benefits? - Other - Imputed.
-This variable is not included for UWRDS-PSD survey observations.*
+*‘13. Are you receiving any of the following benefits? - Other -
+Imputed’ This variable is not included for UWRDS-PSD survey
+observations.*
 
 <table class="table table-striped" style="margin-left: auto; margin-right: auto;">
 <thead>
