@@ -3,9 +3,11 @@ layout: page
 title: Summary Methods - Data Collection and Analysis
 ---
 
+# Data
+
 ### What data sets are you using?
 
-We are using the 2023 RDS (Respondent-Driven Sampling) and PSD (Puget Sound Data) datasets.
+We are using the 2023 UW RDS (Respondent-Driven Sampling) and UW PSD (Puget Sound Data) datasets.
 
 ### What did you do to prepare the data?
 
@@ -27,7 +29,7 @@ We used:
 - **GitHub**: Manages version control and collaboration.
 - **Interoperability**: R Studio integrates with GitHub for version control through the RStudio IDE, allowing seamless collaboration and tracking of changes in scripts and data processing functions.
 
-## Processes
+# Processes
 
 ### What does your workflow or pipeline look like?
 
@@ -46,13 +48,13 @@ The workflow was divided into several steps:
 - Combined the functions into a unified script.
 - Ran the script to generate cleaned dataframes for subsequent analyses.
 
-## Analyses
+# Analyses
 
 ### What approaches did you try that didn’t work? What analyses did you end up sticking with?
 
 - **Successful Approaches**: The final approach involved using standardized functions to clean and harmonize data, resulting in reliable datasets for analysis. We then apply the RDS-II estimators and bootstrap methods for robust statistical analysis.
 
-## Limitations
+# Limitations
 
 ### What are the shortcomings of your approach? How can your work be improved?
 
@@ -64,7 +66,7 @@ The workflow was divided into several steps:
   - **Ongoing Harmonization**: Continuously review and update column standardization procedures to address any emerging inconsistencies.
   - **Tool Flexibility**: Consider incorporating additional tools or methods to improve interoperability and address any potential limitations of the primary tools used.
  
-## Survey Design and Sampling
+# Survey Design and Sampling
 
 ### Survey Design
 
@@ -82,7 +84,7 @@ The sampling methodology employed includes:
 - **Respondent-Driven Sampling (RDS):** Utilized for individuals without addresses, with a focus on network-based sampling.
 - **Household Survey:** Randomized sampling approach for individuals with addresses.
 
-**Survey Phases:**
+### **Survey Phases:**
 
 1. **Initial Screener:** Approximately 5 minutes, interviewer-administered, with a $20 gift card and two Metro bus tickets.
 2. **Individual Interview:** About 30 minutes, self-administered via tablet, with an additional $10 gift card as incentive.
