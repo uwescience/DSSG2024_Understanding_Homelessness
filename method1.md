@@ -1,9 +1,7 @@
 ---
 layout: page
-title: DSSG
+title: Summary Methods - Data Collection and Analysis
 ---
-
-# Summary Methods - Data Collection and Analysis
 
 ## Data
 
