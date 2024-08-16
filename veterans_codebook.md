@@ -1,3 +1,4 @@
+# Veterans vs. Non-Veterans Codebook
 
 <style>
   .col2 {
@@ -7,8 +8,6 @@
     -moz-columns: 2 100px;    /* firefox */
   }
 </style>
-
-# Veterans vs. Non-Veterans Codebook
 
 # Overview
 
