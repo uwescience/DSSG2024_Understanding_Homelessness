@@ -6,7 +6,6 @@
   }
 </style>
 
-# Overview
 
 # Overview
 
@@ -114,7 +113,9 @@ Total
     </tr>
     </tbody>
     </table>
-    ![](assets/sheltered_codebook_files/figure-markdown_strict/summary-1.png)
+    
+  
+![](assets/sheltered_codebook_files/figure-markdown_strict/summary-1.png)
 
 The proportion of the population experiencing homeless who are Sheltered
 is 14%. The proportion of the population experiencing homeless who are

@@ -113,7 +113,8 @@ Total
     </tr>
     </tbody>
     </table>
-    ![](assets/veterans_codebook_files/figure-markdown_strict/summary-1.png)
+    
+![](assets/veterans_codebook_files/figure-markdown_strict/summary-1.png)
 
 The proportion of the population experiencing homeless who are Veterans
 is 11%. The proportion of the population experiencing homeless who are

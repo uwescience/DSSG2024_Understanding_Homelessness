@@ -115,7 +115,8 @@ Total
     </tr>
     </tbody>
     </table>
-    ![](assets/vehicles_codebook_files/figure-markdown_strict/summary-1.png)
+    
+![](assets/vehicles_codebook_files/figure-markdown_strict/summary-1.png)
 
 The proportion of the population experiencing homeless who are Living in
 Vehicles is 13%. The proportion of the population experiencing homeless
