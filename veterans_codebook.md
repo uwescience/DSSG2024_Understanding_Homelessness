@@ -1,11 +1,13 @@
 
 <style>
   .col2 {
-      column-gap: 100px;         /* Increase the gap between columns */
-    columns: 2 50px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 50px; /* chrome, safari */
-    -moz-columns: 2 50px;    /* firefox */
-
+      column-gap:50px;         /* Increase the gap between columns */
+    columns: 2 25px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 25px; /* chrome, safari */
+    -moz-columns: 2 25px;    /* firefox */
+      body {
+    font-size: 10px;  /* Set the desired font size for the entire document */
+  }
   }
 </style>
 
