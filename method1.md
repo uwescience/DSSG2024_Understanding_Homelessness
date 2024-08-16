@@ -13,7 +13,7 @@ We are using the 2023 UW RDS (Respondent-Driven Sampling) and UW PSD (Puget Soun
 
 We prepared the data by:
 - Creating functions to clean the data and impute additional columns where needed.
-- Standardizing common columns in both RDS and PSD datasets to harmonize them, ensuring consistent factor levels and data formats.
+- Standardizing common columns in both UW RDS and UW PSD datasets to harmonize them, ensuring consistent factor levels and data formats.
 
 ## Tools (Component Specification)
 
@@ -37,12 +37,11 @@ The workflow was divided into several steps:
 1. **Function Creation**: Fellows created functions to target specific columns and tasks in the data.
 2. **Function Integration**: All created functions were consolidated into a single script.
 3. **Data Cleaning**: The script produced cleaned dataframes, including:
-   - A clean RDS dataset
-   - A clean PSD dataset
-   - A clean combined dataframe for integrated analysis.
+   - A clean UW_RDS dataset
+   - A clean UW_PSD dataset
+   - A clean combined dataframe called UWRDS-PSD for integrated analysis.
 
 ### What steps did you follow?
-
 - Created and tested individual functions for data cleaning and imputation.
 - Standardized columns across datasets for harmonization.
 - Combined the functions into a unified script.
@@ -64,7 +63,7 @@ The workflow was divided into several steps:
 
 - **Improvements**:
   - **Ongoing Harmonization**: Continuously review and update column standardization procedures to address any emerging inconsistencies.
-  - **Tool Flexibility**: Consider incorporating additional tools or methods to improve interoperability and address any potential limitations of the primary tools used.
+  - **Tool Flexibility**: Considered incorporating additional tools or methods to improve interoperability and address any potential limitations of the primary tools used.
  
 # Survey Design and Sampling
 
@@ -81,8 +80,7 @@ The survey was designed to capture comprehensive data on the unsheltered populat
 
 The sampling methodology employed includes:
 
-- **Respondent-Driven Sampling (RDS):** Utilized for individuals without addresses, with a focus on network-based sampling.
-- **Household Survey:** Randomized sampling approach for individuals with addresses.
+- **Respondent-Driven Sampling (RDS):** The statistical model compensates for the fact that the sample was collected through peer referral rather than a traditional random sampling approach such as an addressed based sample. This method relies on multiple waves of peer-to-peer recruitment to approximate random sampling within “hard-to-reach” populations.
 
 ### **Survey Phases:**
 
