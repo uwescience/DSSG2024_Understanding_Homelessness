@@ -9,7 +9,7 @@ title: DSSG
 
 ### What data sets are you using?
 
-We are using the 2023 RDS (Respondent-Driven Sampling) and PSD (Point-in-Time Survey) datasets.
+We are using the 2023 RDS (Respondent-Driven Sampling) and PSD (Puget Sound Data) datasets.
 
 ### What did you do to prepare the data?
 
