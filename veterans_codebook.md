@@ -1,12 +1,13 @@
 
 <style>
   .col2 {
-      column-gap: 50px;         /* Increase the gap between columns */
-    columns: 2 100px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 100px; /* chrome, safari */
-    -moz-columns: 2 100px;    /* firefox */
+      column-gap: 20px;         /* Increase the gap between columns */
+    columns: 2 90x;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 90px; /* chrome, safari */
+    -moz-columns: 2 90px;    /* firefox */
   }
 </style>
+
 
 # Veterans vs. Non-Veterans Codebook
 
