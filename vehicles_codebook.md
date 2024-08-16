@@ -1,8 +1,11 @@
 <style>
   .col2 {
-    columns: 2 150px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 150px; /* chrome, safari */
-    -moz-columns: 2 150px;    /* firefox */
+    columns: 2 120px;         /* Decrease the width to prevent overlap */
+    -webkit-columns: 2 120px; /* chrome, safari */
+    -moz-columns: 2 120px;    /* firefox */
+    column-gap: 30px;         /* Increase the gap between columns */
+    -webkit-column-gap: 30px; /* chrome, safari */
+    -moz-column-gap: 30px;    /* firefox */
   }
 </style>
 
