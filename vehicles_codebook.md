@@ -1,3 +1,4 @@
+
 <style>
   .col2 {
     columns: 2 120px;         /* Decrease the width to prevent overlap */
@@ -8,6 +9,8 @@
     -moz-column-gap: 30px;    /* firefox */
   }
 </style>
+
+# Living in Vehicles vs. Not Living in Vehicles Codebook
 
 # Overview
 

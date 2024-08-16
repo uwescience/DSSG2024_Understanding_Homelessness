@@ -1,4 +1,3 @@
-# Sheltered vs. Unsheltered Codebook
 
 <style>
   .col2 {
@@ -7,6 +6,8 @@
     -moz-columns: 2 150px;    /* firefox */
   }
 </style>
+
+# Sheltered vs. Unsheltered Codebook
 
 
 # Overview
