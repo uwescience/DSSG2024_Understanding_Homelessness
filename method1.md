@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summary Methods - Data Collection and Analysis
+title: Overview
 ---
 
 # Data
