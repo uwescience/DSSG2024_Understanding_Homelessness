@@ -54,7 +54,7 @@ The workflow was divided into several steps:
 
 - **Successful Approaches**: The final approach involved using standardized functions to clean and harmonize data, resulting in reliable datasets for analysis. We then apply the RDS-II estimators and bootstrap methods for robust statistical analysis.
 
-# Limitations
+## Limitations
 
 ### What are the shortcomings of your approach? How can your work be improved?
 
@@ -98,3 +98,5 @@ Participants were selected based on the following criteria:
 - **Housing Status:** Identified as unsheltered, as per HUD definitions.
 
 Interviews were conducted in English and Spanish, with real-time translation available for other languages.
+
+##
