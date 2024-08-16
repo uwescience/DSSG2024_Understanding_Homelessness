@@ -1,17 +1,17 @@
 
 <style>
   .col2 {
-      column-gap:50px;         /* Increase the gap between columns */
-    columns: 2 25px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 25px; /* chrome, safari */
-    -moz-columns: 2 25px;    /* firefox */
+      column-gap: 80px;         /* Increase the gap between columns */
+    columns: 2 5px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 5px; /* chrome, safari */
+    -moz-columns: 2 5px;    /* firefox */
       body {
     font-size: 10px;  /* Set the desired font size for the entire document */
   }
   }
 </style>
 
-## Veterans vs. Non-Veterans Codebook
+# Veterans vs. Non-Veterans Codebook
 
 # Overview
 
