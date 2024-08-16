@@ -5,9 +5,9 @@
     columns: 2 50px;         /* number of columns and width in pixels*/
     -webkit-columns: 2 50px; /* chrome, safari */
     -moz-columns: 2 50px;    /* firefox */
+
   }
 </style>
-
 
 # Sheltered vs. Unsheltered Codebook
 
