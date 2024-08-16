@@ -1,6 +1,6 @@
 ### ACKNOWLEDGMENTS
 
-We would like to express our gratitude to the following individuals and organizations for their invaluable contributions to this project:
+Thank you to the many stakeholders who generously gave their time to help us better understand and contextualize these survey data. Thanks also to the UW eScience Institute's DSSG Program for supporting this work. We would like to express our gratitude to the following individuals for their invaluable contributions to this project:
 
 ## 2024 UW DSSG Fellows
 - **Felix Junior Appiah Kubi**
