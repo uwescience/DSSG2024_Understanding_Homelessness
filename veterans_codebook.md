@@ -4,6 +4,9 @@
     columns: 2 5px;         /* number of columns and width in pixels*/
     -webkit-columns: 2 5px; /* chrome, safari */
     -moz-columns: 2 5px;    /* firefox */
+      body {
+    font-size: 14px;  /* Set the desired font size for the entire document */
+  }
   }
 </style>
 
@@ -114,6 +117,8 @@ Total
     </tbody>
     </table>
     
+#test 
+
 ![](assets/veterans_codebook_files/figure-markdown_strict/summary-1.png)
 
 The proportion of the population experiencing homeless who are Veterans
