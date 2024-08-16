@@ -2,9 +2,9 @@
 <style>
   .col2 {
       column-gap: 1000px;         /* Increase the gap between columns */
-    columns: 2 100px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 100px; /* chrome, safari */
-    -moz-columns: 2 100px;    /* firefox */
+    columns: 2 150px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 150px; /* chrome, safari */
+    -moz-columns: 2 150px;    /* firefox */
   
 </style>
 

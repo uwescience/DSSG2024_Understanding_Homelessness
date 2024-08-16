@@ -1,12 +1,11 @@
 
 <style>
   .col2 {
-      column-gap: 750px;         /* Increase the gap between columns */
-    columns: 2 50px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 50px; /* chrome, safari */
-    -moz-columns: 2 50px;    /* firefox */
-
-  }
+      column-gap: 1000px;         /* Increase the gap between columns */
+    columns: 2 150px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 150px; /* chrome, safari */
+    -moz-columns: 2 150px;    /* firefox */
+  
 </style>
 
 # Sheltered vs. Unsheltered Codebook
