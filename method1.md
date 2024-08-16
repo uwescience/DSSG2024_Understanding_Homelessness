@@ -98,5 +98,3 @@ Participants were selected based on the following criteria:
 - **Housing Status:** Identified as unsheltered, as per HUD definitions.
 
 Interviews were conducted in English and Spanish, with real-time translation available for other languages.
-
-##
