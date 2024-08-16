@@ -5,7 +5,7 @@
     -webkit-columns: 2 5px; /* chrome, safari */
     -moz-columns: 2 5px;    /* firefox */
       body {
-    font-size: 14px;  /* Set the desired font size for the entire document */
+    font-size: 10px;  /* Set the desired font size for the entire document */
   }
   }
 </style>
