@@ -5,29 +5,18 @@ title: General Codebook
 
 <style>
   .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels */
+    columns: 2 200px;         /* number of columns and width in pixels*/
     -webkit-columns: 2 200px; /* chrome, safari */
     -moz-columns: 2 200px;    /* firefox */
-    text-align: justify;      /* justify alignment */
   }
 </style>
 
-<div class="col2">
-  <h1>Overview</h1>
+# Overview
 
-<p>
-
-This codebook summarizes the findings and data from the University of
-Washington (UW) 2023 Seattle area homeless count project. The count was
-led by Zack W. Almquist (*Lead - PI*), Paul Hebert (*Co-PI*), Nathalie
-Williams (*Puget Sound Data Oversample PI*), Amy Hagopian (*Co-PI*),
-June (Junhe) Yang (*Data Scientist Lead DSSG PhD*).
+This codebook summarizes the findings and data from the University of Washington (UW) 2023 Seattle area homeless count project. The count was led by Zack W. Almquist (*Lead - PI*), Paul Hebert (*Co-PI*), Nathalie Williams (*Puget Sound Data Oversample PI*), Amy Hagopian (*Co-PI*), June (Junhe) Yang (*Data Scientist Lead DSSG PhD*).
 </p>
 
-The data were collected using two different surveys, referred to as
-**UWRDS** and **UWRDS-PSD** in the codebook. Data from both surveys were
-harmonized for this codebook. We note where question phrasing differed
-across surveys and when a variable was collected in only one survey.
+The data were collected using two different surveys, referred to as **UWRDS** and **UWRDS-PSD** in the codebook. Data from both surveys were harmonized for this codebook. We note where question phrasing differed across surveys and when a variable was collected in only one survey.
 
 This codebook and corresponding links were compiled by Data Science for
 Social Good (DSSG) summer fellows, in alphabetical order:  
