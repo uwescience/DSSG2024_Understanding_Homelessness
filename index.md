@@ -15,7 +15,7 @@ layout: default
 
 **DSSG Fellows:** Felix Junior Appiah Kubi, Brooke Kaye, Jess Robinson, Rebecca Schachtman
 
-# Abstract or executive summary
+# Executive summary
 
 The US Department of Housing and Urban Development released the 2023 Annual Homeless Assessment Report (AHAR) on December 15, 2023. The report estimates that 653,100 people in the U.S. experienced homelessness in 2023, a 12% increase from 2022. This estimate comes from the Point-in-Time (PIT) count conducted on a single night in January over communities across the US. The PIT, which is mandated by HUD every two years, is composed of two key elements: (1) the emergency shelter report from administrative records and (2) the unsheltered PIT count typically performed on a single night in January through volunteers walking around the community and tabulating how many people they see. This so-called “visual census” of unsheltered people experiencing homelessness has a number of issues, from methodology (people are undercounted for a number of reasons) to ethics (people don’t get a voice in how they are counted). In other words, there is much room for improvement in understanding our unhoused neighbors.
 
